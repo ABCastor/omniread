@@ -1,0 +1,6 @@
+recursive-include tests *.py *.html *.json *.xml *.md
+recursive-include docs *.md *.txt *.svg
+include README.md LICENSE
+exclude tests/fixtures/patents_*.html
+exclude tests/fixtures/oa_probe_2026-07-28.json
+prune tests/fixtures/real_redlib

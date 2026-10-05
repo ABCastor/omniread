@@ -1,0 +1,38 @@
+name: Checks
+on: [push, pull_request]
+permissions:
+  contents: read
+jobs:
+  syntax:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - run: python -m pip install ruff
+      - run: ruff check --select E9,F63,F7,F82 omniread tests scripts
+      - run: python -m compileall -q omniread
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: node --check omniread/browser_render.mjs
+  behavior:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - run: python -m pip install '.[dev,pdf,mcp]'
+      - run: python -m pytest -q
+      - run: python -m build
+      - run: python scripts/check_sdist.py
+  public-tree:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - run: python scripts/check_public_tree.py

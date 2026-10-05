@@ -1,0 +1,41 @@
+[build-system]
+requires = ["setuptools>=80"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "omniread"
+version = "0.1.0"
+description = "A web reader with an independent, honest completeness verdict."
+requires-python = ">=3.13"
+license = "Apache-2.0"
+dependencies = [
+  "trafilatura>=2.1,<2.2", # Apache-2.0
+  "courlan>=1.4", # Apache-2.0, registrable-domain resolution
+  "curl_cffi>=0.15", # MIT
+  "selectolax>=0.4,<1", # MIT
+  "tiktoken>=0.13", # MIT
+]
+
+[project.scripts]
+omniread = "omniread.cli:main"
+omniread-mcp = "omniread.mcp_server:main"
+
+[project.optional-dependencies]
+pdf = ["pypdf>=6.0"] # BSD-3-Clause, optional PDF extraction
+dev = ["pytest>=8", "ruff>=0.12", "build>=1.2"]
+mcp = ["mcp>=1.0,<2"] # MIT, official Model Context Protocol Python SDK
+youtube = [
+  "yt-dlp", # Unlicense
+  "youtube-transcript-api>=1,<2", # MIT
+]
+academic = ["pypdf>=6.0", "docling"] # MIT, optional OCR escalation
+
+[tool.setuptools.packages.find]
+include = ["omniread*"]
+
+[tool.setuptools.package-data]
+omniread = ["py.typed", "browser_render.mjs"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-ra"

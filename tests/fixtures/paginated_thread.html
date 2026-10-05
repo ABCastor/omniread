@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Architecture discussion, page 1 of 3</title>
+    <meta name="wordcount" content="182">
+    <link rel="next" href="/thread?page=2">
+  </head>
+  <body>
+    <main>
+      <article>
+        <h1>Architecture discussion</h1>
+        <p>This thread asks how a web reader can distinguish a deliberate bounded response from a
+        source that was silently cut off. The first page is internally coherent and long enough
+        to look trustworthy. That is exactly why pagination must be independent verifier evidence
+        rather than a cosmetic outline flag.</p>
+        <h2>Opening post</h2>
+        <p>The author proposes a value axis for core versus full coverage. A core read is requested
+        explicitly, names what remains, and reports the cost of retrieving it. Completeness answers
+        a different question: whether the attempted source capture silently missed material. The
+        two answers can coexist without changing one another.</p>
+        <h2>Replies on page one</h2>
+        <p>Several replies agree that an ordinary fetch of page one is not a deliberate core read.
+        The caller asked for the thread and the generic reader stopped at a next-page link. Until a
+        site recipe follows pages two and three and validates their manifests, the honest verdict
+        is incomplete. Rendering page one again cannot solve that gap.</p>
+      </article>
+      <nav class="pagination" aria-label="pagination">
+        <span>Page 1 of 3</span>
+        <a rel="next" href="/thread?page=2">Next</a>
+      </nav>
+    </main>
+  </body>
+</html>

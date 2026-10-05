@@ -1,0 +1,13 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>Redirect</title>
+<script>
+  const target = "https://example.test/articles/reliable-reader";
+  const hash = window.location.hash || "";
+  window.location.replace(target + hash);
+</script>
+<noscript>
+  <meta http-equiv="refresh"
+        content="0; url=https://example.test/articles/reliable-reader">
+</noscript>
+<p><a href="https://example.test/articles/reliable-reader">Click here</a> to be redirected.</p>

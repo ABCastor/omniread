@@ -1,0 +1,27 @@
+{
+ "messages": [
+  {
+   "status": "ok",
+   "category": "all"
+  }
+ ],
+ "collection": [
+  {
+   "title": "The inhaled corticosteroid ciclesonide blocks coronavirus RNA replication by targeting viral NSP15",
+   "authors": "Matsuyama, S.; Kawase, M.; Nao, N.; Shirato, K.; Ujike, M.; Kamitani, W.; Shimojima, M.; Fukushi, S.",
+   "author_corresponding": "Shutoku  Matsuyama",
+   "author_corresponding_institution": "National Institute of Infectious Diseases",
+   "doi": "10.1101/2020.03.11.987016",
+   "date": "2020-03-12",
+   "version": "1",
+   "type": "new results",
+   "license": "cc_no",
+   "category": "microbiology",
+   "jatsxml": "https://www.biorxiv.org/content/early/2020/03/12/2020.03.11.987016.source.xml",
+   "abstract": "Steroid compounds, which are expected to have dual functions in blocking host inflammation and MERS-CoV replication, were screened from a chemical library. Within this library, ciclesonide, an inhaled corticosteroid, suppressed human coronavirus replication in cultured cells, but did not suppress replication of respiratory syncytial virus or influenza virus. The effective concentration of ciclesonide to block SARS-CoV-2 (the cause of COVID-19) replication (EC90) was 6.3 M. After the eleventh consecutive MERS-CoV passage in the presence of ciclesonide, a resistant mutation was generated, which resulted in an amino acid substitution (A25V) in nonstructural protein (NSP) 15, as identified using reverse genetics. A recombinant virus with the mutation was also resistant to ciclesonide suppression of viral replication. These observations suggest that the effect of ciclesonide was specific to coronavirus, suggesting this is a candidate drug for treatment of patients suffering MERS or COVID-19.",
+   "funder": "NA",
+   "published": "NA",
+   "server": "bioRxiv"
+  }
+ ]
+}

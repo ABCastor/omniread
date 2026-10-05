@@ -1,0 +1,208 @@
+{
+  "schema_version": 2,
+  "cases": [
+    {
+      "name": "normal_article",
+      "file": "normal_article.html",
+      "expected_status": "complete",
+      "required_sections": [
+        "Measuring a Reliable Reader",
+        "Independent evidence",
+        "Adversarial cases",
+        "Operational limits",
+        "Conclusion"
+      ]
+    },
+    {
+      "name": "truncated_article",
+      "file": "truncated_article.html",
+      "expected_status": "incomplete",
+      "required_sections": [
+        "Measuring a Reliable Reader",
+        "Independent evidence",
+        "Adversarial cases",
+        "Operational limits",
+        "Conclusion"
+      ],
+      "present_sections": [
+        "Measuring a Reliable Reader",
+        "Independent evidence"
+      ]
+    },
+    {
+      "name": "http_200_block",
+      "file": "block_page.html",
+      "expected_status": "unknown",
+      "required_sections": []
+    },
+    {
+      "name": "http_200_authwall",
+      "file": "authwall_page.html",
+      "expected_status": "unknown",
+      "required_sections": []
+    },
+    {
+      "name": "js_spa_shell",
+      "file": "js_spa_shell.html",
+      "expected_status": "unknown",
+      "required_sections": []
+    },
+    {
+      "name": "rendered_js_spa",
+      "file": "rendered_spa.html",
+      "expected_status": "complete",
+      "required_sections": [
+        "Rendered knowledge base",
+        "Client state",
+        "Verified output"
+      ]
+    },
+    {
+      "name": "docs_with_code",
+      "file": "docs_with_code.html",
+      "expected_status": "complete",
+      "required_sections": [
+        "Reader API",
+        "Request contract",
+        "Python example",
+        "Failure behavior"
+      ]
+    },
+    {
+      "name": "docs_sequential_next",
+      "file": "docs_sequential_next.html",
+      "expected_status": "complete",
+      "required_sections": [
+        "Async task guide",
+        "Creating tasks",
+        "Cancellation"
+      ]
+    },
+    {
+      "name": "paginated_thread_page_one",
+      "file": "paginated_thread.html",
+      "expected_status": "incomplete",
+      "required_sections": [
+        "Architecture discussion",
+        "Opening post",
+        "Replies on page one"
+      ]
+    },
+    {
+      "name": "tail_heavy_guide",
+      "file": "tail_heavy.html",
+      "expected_status": "complete",
+      "required_sections": [
+        "Tail-heavy guide",
+        "Core decision",
+        "Evidence model",
+        "Implementation notes",
+        "Operational examples",
+        "Long tail",
+        "Closing checklist"
+      ]
+    },
+    {
+      "name": "redlib_thread_complete",
+      "file": "redlib_thread.html",
+      "recipe": "reddit",
+      "expected_status": "complete",
+      "required_sections": [
+        "Synthetic comment 1.",
+        "Synthetic comment 2."
+      ]
+    },
+    {
+      "name": "redlib_thread_truncated",
+      "file": "redlib_thread_truncated.html",
+      "recipe": "reddit",
+      "expected_status": "incomplete",
+      "required_sections": [
+        "Synthetic comment 1.",
+        "Synthetic comment 2."
+      ]
+    },
+    {
+      "name": "redlib_thread_empty",
+      "file": "redlib_thread_empty.html",
+      "recipe": "reddit",
+      "expected_status": "unknown",
+      "required_sections": []
+    },
+    {
+      "name": "facebook_marketplace_wheels",
+      "file": "facebook_marketplace_wheels.html",
+      "recipe": "facebook_marketplace",
+      "item_id": "1000000000000001",
+      "expected_status": "complete",
+      "required_sections": [
+        "Giant P-R2 700c Road Wheelset",
+        "Description"
+      ]
+    },
+    {
+      "name": "facebook_marketplace_bag",
+      "file": "facebook_marketplace_bag.html",
+      "recipe": "facebook_marketplace",
+      "item_id": "1000000000000002",
+      "expected_status": "complete",
+      "required_sections": [
+        "Decathlon ADVT 900 Bikepacking Bag Set",
+        "Description"
+      ]
+    },
+    {
+      "name": "facebook_marketplace_stripped",
+      "file": "facebook_marketplace_stripped.html",
+      "recipe": "facebook_marketplace",
+      "item_id": "1700000000000000",
+      "expected_status": "incomplete",
+      "required_sections": [
+        "Vintage Camera"
+      ]
+    },
+    {
+      "name": "facebook_marketplace_gated",
+      "file": "facebook_marketplace_gated.html",
+      "recipe": "facebook_marketplace",
+      "item_id": "1000000000000001",
+      "expected_status": "unknown",
+      "required_sections": []
+    },
+    {
+      "name": "scholar_nature_abstract_trap",
+      "file": "scholar_nature_paywall.html",
+      "recipe": "scholar",
+      "representation": "abstract",
+      "expected_content_level": "abstract_only",
+      "expected_status": "incomplete",
+      "required_sections": [
+        "Abstract"
+      ]
+    },
+    {
+      "name": "scholar_epmc_jats_full_text",
+      "file": "scholar_epmc_jats.xml",
+      "recipe": "scholar",
+      "representation": "jats",
+      "expected_content_level": "full_text_with_references",
+      "expected_status": "complete",
+      "required_sections": [
+        "Modeling the Framework for False Positive Findings",
+        "References"
+      ]
+    },
+    {
+      "name": "scholar_arxiv_html_full_text",
+      "file": "scholar_arxiv.html",
+      "recipe": "scholar",
+      "representation": "html",
+      "expected_content_level": "full_text",
+      "expected_status": "complete",
+      "required_sections": [
+        "1 Introduction",
+        "7 Conclusion"
+      ]
+    }
+  ]
+}

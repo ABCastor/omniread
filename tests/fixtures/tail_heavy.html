@@ -1,0 +1,34 @@
+<!doctype html>
+<html>
+  <head><title>Tail-heavy guide</title><meta name="wordcount" content="257"></head>
+  <body><main><article>
+    <h1>Tail-heavy guide</h1>
+    <p>This guide has a valuable opening and a deliberately long sequence of supporting sections.
+    The complete source remains available, but an agent with a small context budget may request a
+    bounded core. OmniRead must shape that response only after full extraction and verification.</p>
+    <h2>Core decision</h2>
+    <p>Coverage describes the requested response envelope. Full means no deliberate budget bound.
+    Core means a section-boundary prefix was returned and every omitted anchor is named. Neither
+    label changes whether the source capture itself was truthful.</p>
+    <h2>Evidence model</h2>
+    <p>The verifier compares visible headings, DOM words, publisher declarations, block signals,
+    and pagination. It runs against the full extracted source before token shaping. A bounded core
+    can therefore retain a complete verdict without pretending the response contains every section.</p>
+    <h2>Implementation notes</h2>
+    <p>Token estimates come from the same outline used for section selection. Remaining item count
+    is the number of omitted sections, and extra tokens are the sum of those sections. No percentage
+    or confidence score is invented.</p>
+    <h2>Operational examples</h2>
+    <p>The command line accepts a budget for the core response and a full flag for escalation. MCP
+    returns a handle that can retrieve one section or request the full result. Both adapters expose
+    the identical typed object.</p>
+    <h2>Long tail</h2>
+    <p>Supporting examples, edge cases, and repeated discussion may be useful later but need not
+    consume the first context window. Their omission is declared, priced, and reversible. This is
+    useful compression rather than silent loss.</p>
+    <h2>Closing checklist</h2>
+    <p>Verify the source first. Bound only at section boundaries. Name every omitted anchor. Report
+    the remaining count and token estimate. Preserve the independent completeness verdict. Escalate
+    explicitly when the agent decides the tail is worth its cost.</p>
+  </article></main></body>
+</html>

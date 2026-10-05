@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Async task guide</title>
+    <link rel="next" title="Streams" href="asyncio-stream.html">
+  </head>
+  <body>
+    <main>
+      <article>
+        <h1>Async task guide</h1>
+        <p>Tasks schedule coroutine work and let an application coordinate several operations
+        without blocking the whole process. A task owns one coroutine, records its result or
+        exception, and exposes cancellation state to the caller. Applications normally create
+        tasks through the running event loop and retain references for as long as the work matters.
+        This chapter describes that contract in enough detail to use it safely.</p>
+        <h2>Creating tasks</h2>
+        <p>Create a task from a coroutine object, then await it directly or gather it with related
+        work. Structured task groups provide a scope in which child failures cancel their siblings
+        and are reported together. Naming important tasks makes diagnostics easier, while retaining
+        the returned object prevents background work from disappearing before completion. These
+        rules apply to each task described in this document.</p>
+        <h2>Cancellation</h2>
+        <p>Cancellation requests cooperative shutdown by arranging for a cancellation exception at
+        the next suspension point. Cleanup code belongs in a finally block, and code that catches
+        cancellation should normally propagate it after releasing resources. Timeouts use the same
+        mechanism, so swallowing cancellation can violate surrounding task-group and timeout
+        guarantees. The next documentation chapter covers streams, not a continuation of this page.</p>
+      </article>
+    </main>
+  </body>
+</html>

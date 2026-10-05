@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Measuring a Reliable Reader</title>
+  <link rel="canonical" href="https://example.test/articles/reliable-reader">
+  <style>
+    .tracking-copy::after { content: "THIS STYLE TEXT MUST NEVER ENTER A LENGTH MEASUREMENT"; }
+  </style>
+  <script>window.noise = "THIS SCRIPT TEXT MUST NEVER ENTER A LENGTH MEASUREMENT";</script>
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "headline": "Measuring a Reliable Reader",
+      "wordCount": 335
+    }
+  </script>
+</head>
+<body>
+  <nav>Home Products Pricing Account Sign in</nav>
+  <article>
+    <h1>Measuring a Reliable Reader</h1>
+    <p>A reliable reader must distinguish fetching from understanding what arrived. A successful transport can still deliver a consent wall, a challenge form, or a fragment that ends before the argument does. Treating an HTTP status as proof of content turns an ordinary infrastructure signal into a dangerous semantic claim.</p>
+    <p>The safer design keeps the original representation, the extracted prose, and the verification evidence separate. Each layer answers a different question. The fetcher says what the server returned, the extractor finds likely main content, and the verifier asks whether independent facts support calling that content complete.</p>
+
+    <h2>Independent evidence</h2>
+    <p>Headings are useful because they form a compact manifest already present in the document. If the visible article contains sections about methods, results, limitations, and conclusions, an extraction missing the final two headings is plainly suspect even when the surviving paragraphs read smoothly.</p>
+    <p>Length is another signal when its reference is external to extraction. A publisher supplied word count, an API item manifest, or the visible main DOM can reveal a large gap. None is perfect alone, so a complete verdict requires multiple agreeing signals and no strong contradiction.</p>
+
+    <h2>Adversarial cases</h2>
+    <p>A deliberately cut response is the essential regression fixture. Its opening remains grammatical, its title remains intact, and a naive extractor can return attractive prose. The fixture is valuable precisely because visual plausibility cannot distinguish it from a complete short article without an independent declared length.</p>
+    <p>An HTTP two hundred challenge page is the second essential adversary. Browser checks often use the successful status to load scripts that later prove the visitor is human. The returned words may include the requested host name, but they are not the requested article and must never receive a complete verdict.</p>
+
+    <h2>Operational limits</h2>
+    <p>Verification should fail closed when the evidence is thin. A tiny page with one heading and no declared length may be complete in reality, but the system does not know that. Returning unknown is more useful than manufacturing certainty because it preserves the option to escalate to rendering, a recipe, or an authenticated session.</p>
+    <table>
+      <thead><tr><th>Signal</th><th>Role</th></tr></thead>
+      <tbody>
+        <tr><td>Heading presence</td><td>Structural manifest</td></tr>
+        <tr><td>DOM coverage</td><td>Independent length reference</td></tr>
+        <tr><td>Block detection</td><td>Representation validity</td></tr>
+      </tbody>
+    </table>
+    <pre><code>if block_signal:
+    verdict = "unknown"
+elif strong_gap:
+    verdict = "incomplete"</code></pre>
+
+    <h2>Conclusion</h2>
+    <p>The product is not a better confidence score attached to the same extractor. It is a contract that preserves provenance, exposes omissions, and reserves complete for cases where independent observations agree. That conservative boundary is the architectural heart because every future retrieval tier still feeds the same verifier.</p>
+  </article>
+  <footer>Copyright Example Media. Privacy. Terms. Careers.</footer>
+</body>
+</html>
+

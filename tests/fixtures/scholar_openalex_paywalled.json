@@ -1,0 +1,962 @@
+{
+ "id": "https://openalex.org/W2919115771",
+ "doi": "https://doi.org/10.1038/nature14539",
+ "title": "Deep learning",
+ "display_name": "Deep learning",
+ "publication_year": 2015,
+ "publication_date": "2015-05-26",
+ "ids": {
+  "openalex": "https://openalex.org/W2919115771",
+  "doi": "https://doi.org/10.1038/nature14539",
+  "mag": "2919115771",
+  "pmid": "https://pubmed.ncbi.nlm.nih.gov/26017442"
+ },
+ "language": "en",
+ "primary_location": {
+  "id": "doi:10.1038/nature14539",
+  "is_oa": false,
+  "landing_page_url": "https://doi.org/10.1038/nature14539",
+  "pdf_url": null,
+  "source": {
+   "id": "https://openalex.org/S137773608",
+   "display_name": "Nature",
+   "issn_l": "0028-0836",
+   "issn": [
+    "0028-0836",
+    "1476-4687"
+   ],
+   "is_oa": false,
+   "is_in_doaj": false,
+   "is_core": true,
+   "host_organization": "https://openalex.org/P4310319908",
+   "host_organization_name": "Nature Portfolio",
+   "host_organization_lineage": [
+    "https://openalex.org/P4310319908",
+    "https://openalex.org/P4310319965"
+   ],
+   "host_organization_lineage_names": [
+    "Nature Portfolio",
+    "Springer Nature"
+   ],
+   "type": "journal"
+  },
+  "license": null,
+  "license_id": null,
+  "version": "publishedVersion",
+  "is_accepted": true,
+  "is_published": true,
+  "raw_source_name": "Nature",
+  "raw_type": "journal-article"
+ },
+ "type": "article",
+ "indexed_in": [
+  "crossref",
+  "pubmed"
+ ],
+ "open_access": {
+  "is_oa": true,
+  "oa_status": "green",
+  "oa_url": "https://hal.science/hal-04206682",
+  "any_repository_has_fulltext": true
+ },
+ "authorships": [
+  {
+   "author_position": "first",
+   "author": {
+    "id": "https://openalex.org/A5001226970",
+    "display_name": "Yann LeCun",
+    "orcid": null
+   },
+   "institutions": [
+    {
+     "id": "https://openalex.org/I4210112883",
+     "display_name": "Sanford Broadway Medical Center",
+     "ror": "https://ror.org/02b6wm085",
+     "country_code": "US",
+     "type": "healthcare",
+     "lineage": [
+      "https://openalex.org/I1305840828",
+      "https://openalex.org/I4210112883"
+     ]
+    },
+    {
+     "id": "https://openalex.org/I4210114444",
+     "display_name": "Meta (United States)",
+     "ror": "https://ror.org/01zbnvs85",
+     "country_code": "US",
+     "type": "company",
+     "lineage": [
+      "https://openalex.org/I4210114444"
+     ]
+    },
+    {
+     "id": "https://openalex.org/I57206974",
+     "display_name": "New York University",
+     "ror": "https://ror.org/0190ak572",
+     "country_code": "US",
+     "type": "education",
+     "lineage": [
+      "https://openalex.org/I57206974"
+     ]
+    }
+   ],
+   "countries": [
+    "US"
+   ],
+   "is_corresponding": true,
+   "raw_author_name": "Yann LeCun",
+   "raw_affiliation_strings": [
+    "1] Facebook AI Research, 770 Broadway, New York, New York 10003 USA. [2] New York University, 715 Broadway, New York, New York 10003, USA",
+    "New York University, 715 Broadway, New York, 10003, New York, USA",
+    "Facebook AI Research, 770 Broadway, New York, 10003, New York, USA"
+   ],
+   "raw_orcid": null,
+   "affiliations": [
+    {
+     "raw_affiliation_string": "1] Facebook AI Research, 770 Broadway, New York, New York 10003 USA. [2] New York University, 715 Broadway, New York, New York 10003, USA",
+     "institution_ids": [
+      "https://openalex.org/I4210112883"
+     ]
+    },
+    {
+     "raw_affiliation_string": "New York University, 715 Broadway, New York, 10003, New York, USA",
+     "institution_ids": [
+      "https://openalex.org/I57206974"
+     ]
+    },
+    {
+     "raw_affiliation_string": "Facebook AI Research, 770 Broadway, New York, 10003, New York, USA",
+     "institution_ids": [
+      "https://openalex.org/I4210114444"
+     ]
+    }
+   ]
+  },
+  {
+   "author_position": "middle",
+   "author": {
+    "id": "https://openalex.org/A5086198262",
+    "display_name": "Yoshua Bengio",
+    "orcid": "https://orcid.org/0000-0002-9322-3515"
+   },
+   "institutions": [
+    {
+     "id": "https://openalex.org/I159129438",
+     "display_name": "Universit\u00e9 du Qu\u00e9bec \u00e0 Montr\u00e9al",
+     "ror": "https://ror.org/002rjbv21",
+     "country_code": "CA",
+     "type": "education",
+     "lineage": [
+      "https://openalex.org/I159129438",
+      "https://openalex.org/I49663120"
+     ]
+    },
+    {
+     "id": "https://openalex.org/I70931966",
+     "display_name": "Universit\u00e9 de Montr\u00e9al",
+     "ror": "https://ror.org/0161xgx34",
+     "country_code": "CA",
+     "type": "education",
+     "lineage": [
+      "https://openalex.org/I70931966"
+     ]
+    }
+   ],
+   "countries": [
+    "CA"
+   ],
+   "is_corresponding": false,
+   "raw_author_name": "Yoshua Bengio",
+   "raw_affiliation_strings": [
+    "Department of Computer Science and Operations Research Universit\u00e9 de Montr\u00e9al, Pavillon Andr\u00e9-Aisenstadt, PO Box 6128 Centre-Ville STN Montr\u00e9al, Quebec H3C 3J7, Canada",
+    "Department of Computer Science and Operations Research Universit\u00e9 de Montr\u00e9al, Pavillon Andr\u00e9-Aisenstadt, PO Box 6128 Centre-Ville STN, Montr\u00e9al, H3C 3J7, Quebec, Canada"
+   ],
+   "raw_orcid": null,
+   "affiliations": [
+    {
+     "raw_affiliation_string": "Department of Computer Science and Operations Research Universit\u00e9 de Montr\u00e9al, Pavillon Andr\u00e9-Aisenstadt, PO Box 6128 Centre-Ville STN Montr\u00e9al, Quebec H3C 3J7, Canada",
+     "institution_ids": [
+      "https://openalex.org/I159129438"
+     ]
+    },
+    {
+     "raw_affiliation_string": "Department of Computer Science and Operations Research Universit\u00e9 de Montr\u00e9al, Pavillon Andr\u00e9-Aisenstadt, PO Box 6128 Centre-Ville STN, Montr\u00e9al, H3C 3J7, Quebec, Canada",
+     "institution_ids": [
+      "https://openalex.org/I70931966"
+     ]
+    }
+   ]
+  },
+  {
+   "author_position": "last",
+   "author": {
+    "id": "https://openalex.org/A5108093963",
+    "display_name": "Geoffrey E. Hinton",
+    "orcid": null
+   },
+   "institutions": [
+    {
+     "id": "https://openalex.org/I106938459",
+     "display_name": "University of New Brunswick",
+     "ror": "https://ror.org/05nkf0n29",
+     "country_code": "CA",
+     "type": "education",
+     "lineage": [
+      "https://openalex.org/I106938459"
+     ]
+    },
+    {
+     "id": "https://openalex.org/I1291425158",
+     "display_name": "Google (United States)",
+     "ror": "https://ror.org/00njsd438",
+     "country_code": "US",
+     "type": "company",
+     "lineage": [
+      "https://openalex.org/I1291425158",
+      "https://openalex.org/I4210128969"
+     ]
+    },
+    {
+     "id": "https://openalex.org/I185261750",
+     "display_name": "University of Toronto",
+     "ror": "https://ror.org/03dbr7087",
+     "country_code": "CA",
+     "type": "education",
+     "lineage": [
+      "https://openalex.org/I185261750"
+     ]
+    }
+   ],
+   "countries": [
+    "CA",
+    "US"
+   ],
+   "is_corresponding": false,
+   "raw_author_name": "Geoffrey Hinton",
+   "raw_affiliation_strings": [
+    "1] Google, 1600 Amphitheatre Parkway, Mountain View, California 94043, USA. [2] Department of Computer Science, University of Toronto, 6 King's College Road, Toronto, Ontario M5S 3G4, Canada",
+    "Google, 1600 Amphitheatre Parkway, Mountain View, 94043, California, USA",
+    "Department of Computer Science, University of Toronto, 6 King's College Road, Toronto, M5S 3G4, Ontario, Canada"
+   ],
+   "raw_orcid": null,
+   "affiliations": [
+    {
+     "raw_affiliation_string": "1] Google, 1600 Amphitheatre Parkway, Mountain View, California 94043, USA. [2] Department of Computer Science, University of Toronto, 6 King's College Road, Toronto, Ontario M5S 3G4, Canada",
+     "institution_ids": [
+      "https://openalex.org/I1291425158"
+     ]
+    },
+    {
+     "raw_affiliation_string": "Google, 1600 Amphitheatre Parkway, Mountain View, 94043, California, USA",
+     "institution_ids": [
+      "https://openalex.org/I1291425158"
+     ]
+    },
+    {
+     "raw_affiliation_string": "Department of Computer Science, University of Toronto, 6 King's College Road, Toronto, M5S 3G4, Ontario, Canada",
+     "institution_ids": [
+      "https://openalex.org/I106938459",
+      "https://openalex.org/I185261750"
+     ]
+    }
+   ]
+  }
+ ],
+ "institutions": [],
+ "countries_distinct_count": 2,
+ "institutions_distinct_count": 8,
+ "corresponding_author_ids": [
+  "https://openalex.org/A5001226970"
+ ],
+ "corresponding_institution_ids": [
+  "https://openalex.org/I4210112883",
+  "https://openalex.org/I4210114444",
+  "https://openalex.org/I57206974"
+ ],
+ "apc_list": {
+  "value": 11690,
+  "currency": "USD",
+  "value_usd": 11690
+ },
+ "apc_paid": null,
+ "fwci": 2386.2723,
+ "has_fulltext": false,
+ "cited_by_count": 82643,
+ "citation_normalized_percentile": {
+  "value": 1.0,
+  "is_in_top_1_percent": true,
+  "is_in_top_10_percent": true
+ },
+ "cited_by_percentile_year": {
+  "min": 98,
+  "max": 100
+ },
+ "biblio": {
+  "volume": "521",
+  "issue": "7553",
+  "first_page": "436",
+  "last_page": "444"
+ },
+ "is_retracted": false,
+ "is_paratext": false,
+ "is_xpac": false,
+ "primary_topic": {
+  "id": "https://openalex.org/T10775",
+  "display_name": "Generative Adversarial Networks and Image Synthesis",
+  "score": 0.9987999796867371,
+  "subfield": {
+   "id": "https://openalex.org/subfields/1707",
+   "display_name": "Computer Vision and Pattern Recognition"
+  },
+  "field": {
+   "id": "https://openalex.org/fields/17",
+   "display_name": "Computer Science"
+  },
+  "domain": {
+   "id": "https://openalex.org/domains/3",
+   "display_name": "Physical Sciences"
+  }
+ },
+ "topics": [
+  {
+   "id": "https://openalex.org/T10775",
+   "display_name": "Generative Adversarial Networks and Image Synthesis",
+   "score": 0.9987999796867371,
+   "subfield": {
+    "id": "https://openalex.org/subfields/1707",
+    "display_name": "Computer Vision and Pattern Recognition"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/17",
+    "display_name": "Computer Science"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/3",
+    "display_name": "Physical Sciences"
+   }
+  },
+  {
+   "id": "https://openalex.org/T10320",
+   "display_name": "Neural Networks and Applications",
+   "score": 0.9972000122070312,
+   "subfield": {
+    "id": "https://openalex.org/subfields/1702",
+    "display_name": "Artificial Intelligence"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/17",
+    "display_name": "Computer Science"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/3",
+    "display_name": "Physical Sciences"
+   }
+  },
+  {
+   "id": "https://openalex.org/T11512",
+   "display_name": "Anomaly Detection Techniques and Applications",
+   "score": 0.9970999956130981,
+   "subfield": {
+    "id": "https://openalex.org/subfields/1702",
+    "display_name": "Artificial Intelligence"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/17",
+    "display_name": "Computer Science"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/3",
+    "display_name": "Physical Sciences"
+   }
+  }
+ ],
+ "keywords": [
+  {
+   "id": "https://openalex.org/keywords/computer-science",
+   "display_name": "Computer science",
+   "score": 0.7997676134109497
+  },
+  {
+   "id": "https://openalex.org/keywords/deep-learning",
+   "display_name": "Deep learning",
+   "score": 0.7106125950813293
+  },
+  {
+   "id": "https://openalex.org/keywords/artificial-intelligence",
+   "display_name": "Artificial intelligence",
+   "score": 0.6407221555709839
+  },
+  {
+   "id": "https://openalex.org/keywords/abstraction",
+   "display_name": "Abstraction",
+   "score": 0.5962026119232178
+  },
+  {
+   "id": "https://openalex.org/keywords/representation",
+   "display_name": "Representation (politics)",
+   "score": 0.5892231464385986
+  },
+  {
+   "id": "https://openalex.org/keywords/layer",
+   "display_name": "Layer (electronics)",
+   "score": 0.4816502630710602
+  },
+  {
+   "id": "https://openalex.org/keywords/object",
+   "display_name": "Object (grammar)",
+   "score": 0.45149773359298706
+  },
+  {
+   "id": "https://openalex.org/keywords/backpropagation",
+   "display_name": "Backpropagation",
+   "score": 0.45104220509529114
+  },
+  {
+   "id": "https://openalex.org/keywords/convolutional-neural-network",
+   "display_name": "Convolutional neural network",
+   "score": 0.4445376992225647
+  },
+  {
+   "id": "https://openalex.org/keywords/feature-learning",
+   "display_name": "Feature learning",
+   "score": 0.4232310354709625
+  },
+  {
+   "id": "https://openalex.org/keywords/pattern-recognition",
+   "display_name": "Pattern recognition (psychology)",
+   "score": 0.41093748807907104
+  },
+  {
+   "id": "https://openalex.org/keywords/speech-recognition",
+   "display_name": "Speech recognition",
+   "score": 0.35180675983428955
+  },
+  {
+   "id": "https://openalex.org/keywords/artificial-neural-network",
+   "display_name": "Artificial neural network",
+   "score": 0.25419050455093384
+  }
+ ],
+ "concepts": [
+  {
+   "id": "https://openalex.org/C41008148",
+   "wikidata": "https://www.wikidata.org/wiki/Q21198",
+   "display_name": "Computer science",
+   "level": 0,
+   "score": 0.7997676134109497
+  },
+  {
+   "id": "https://openalex.org/C108583219",
+   "wikidata": "https://www.wikidata.org/wiki/Q197536",
+   "display_name": "Deep learning",
+   "level": 2,
+   "score": 0.7106125950813293
+  },
+  {
+   "id": "https://openalex.org/C154945302",
+   "wikidata": "https://www.wikidata.org/wiki/Q11660",
+   "display_name": "Artificial intelligence",
+   "level": 1,
+   "score": 0.6407221555709839
+  },
+  {
+   "id": "https://openalex.org/C124304363",
+   "wikidata": "https://www.wikidata.org/wiki/Q673661",
+   "display_name": "Abstraction",
+   "level": 2,
+   "score": 0.5962026119232178
+  },
+  {
+   "id": "https://openalex.org/C2776359362",
+   "wikidata": "https://www.wikidata.org/wiki/Q2145286",
+   "display_name": "Representation (politics)",
+   "level": 3,
+   "score": 0.5892231464385986
+  },
+  {
+   "id": "https://openalex.org/C2779227376",
+   "wikidata": "https://www.wikidata.org/wiki/Q6505497",
+   "display_name": "Layer (electronics)",
+   "level": 2,
+   "score": 0.4816502630710602
+  },
+  {
+   "id": "https://openalex.org/C2781238097",
+   "wikidata": "https://www.wikidata.org/wiki/Q175026",
+   "display_name": "Object (grammar)",
+   "level": 2,
+   "score": 0.45149773359298706
+  },
+  {
+   "id": "https://openalex.org/C155032097",
+   "wikidata": "https://www.wikidata.org/wiki/Q798503",
+   "display_name": "Backpropagation",
+   "level": 3,
+   "score": 0.45104220509529114
+  },
+  {
+   "id": "https://openalex.org/C81363708",
+   "wikidata": "https://www.wikidata.org/wiki/Q17084460",
+   "display_name": "Convolutional neural network",
+   "level": 2,
+   "score": 0.4445376992225647
+  },
+  {
+   "id": "https://openalex.org/C59404180",
+   "wikidata": "https://www.wikidata.org/wiki/Q17013334",
+   "display_name": "Feature learning",
+   "level": 2,
+   "score": 0.4232310354709625
+  },
+  {
+   "id": "https://openalex.org/C153180895",
+   "wikidata": "https://www.wikidata.org/wiki/Q7148389",
+   "display_name": "Pattern recognition (psychology)",
+   "level": 2,
+   "score": 0.41093748807907104
+  },
+  {
+   "id": "https://openalex.org/C28490314",
+   "wikidata": "https://www.wikidata.org/wiki/Q189436",
+   "display_name": "Speech recognition",
+   "level": 1,
+   "score": 0.35180675983428955
+  },
+  {
+   "id": "https://openalex.org/C50644808",
+   "wikidata": "https://www.wikidata.org/wiki/Q192776",
+   "display_name": "Artificial neural network",
+   "level": 2,
+   "score": 0.25419050455093384
+  },
+  {
+   "id": "https://openalex.org/C111472728",
+   "wikidata": "https://www.wikidata.org/wiki/Q9471",
+   "display_name": "Epistemology",
+   "level": 1,
+   "score": 0.0
+  },
+  {
+   "id": "https://openalex.org/C94625758",
+   "wikidata": "https://www.wikidata.org/wiki/Q7163",
+   "display_name": "Politics",
+   "level": 2,
+   "score": 0.0
+  },
+  {
+   "id": "https://openalex.org/C138885662",
+   "wikidata": "https://www.wikidata.org/wiki/Q5891",
+   "display_name": "Philosophy",
+   "level": 0,
+   "score": 0.0
+  },
+  {
+   "id": "https://openalex.org/C17744445",
+   "wikidata": "https://www.wikidata.org/wiki/Q36442",
+   "display_name": "Political science",
+   "level": 0,
+   "score": 0.0
+  },
+  {
+   "id": "https://openalex.org/C178790620",
+   "wikidata": "https://www.wikidata.org/wiki/Q11351",
+   "display_name": "Organic chemistry",
+   "level": 1,
+   "score": 0.0
+  },
+  {
+   "id": "https://openalex.org/C185592680",
+   "wikidata": "https://www.wikidata.org/wiki/Q2329",
+   "display_name": "Chemistry",
+   "level": 0,
+   "score": 0.0
+  },
+  {
+   "id": "https://openalex.org/C199539241",
+   "wikidata": "https://www.wikidata.org/wiki/Q7748",
+   "display_name": "Law",
+   "level": 1,
+   "score": 0.0
+  }
+ ],
+ "mesh": [
+  {
+   "descriptor_ui": "D000465",
+   "descriptor_name": "Algorithms",
+   "qualifier_ui": null,
+   "qualifier_name": null,
+   "is_major_topic": false
+  },
+  {
+   "descriptor_ui": "D000465",
+   "descriptor_name": "Algorithms",
+   "qualifier_ui": null,
+   "qualifier_name": null,
+   "is_major_topic": false
+  },
+  {
+   "descriptor_ui": "D000465",
+   "descriptor_name": "Algorithms",
+   "qualifier_ui": null,
+   "qualifier_name": null,
+   "is_major_topic": false
+  },
+  {
+   "descriptor_ui": "D001185",
+   "descriptor_name": "Artificial Intelligence",
+   "qualifier_ui": "Q000639",
+   "qualifier_name": "trends",
+   "is_major_topic": true
+  },
+  {
+   "descriptor_ui": "D001185",
+   "descriptor_name": "Artificial Intelligence",
+   "qualifier_ui": "Q000639",
+   "qualifier_name": "trends",
+   "is_major_topic": true
+  },
+  {
+   "descriptor_ui": "D001185",
+   "descriptor_name": "Artificial Intelligence",
+   "qualifier_ui": "Q000639",
+   "qualifier_name": "trends",
+   "is_major_topic": true
+  },
+  {
+   "descriptor_ui": "D003201",
+   "descriptor_name": "Computers",
+   "qualifier_ui": null,
+   "qualifier_name": null,
+   "is_major_topic": false
+  },
+  {
+   "descriptor_ui": "D003201",
+   "descriptor_name": "Computers",
+   "qualifier_ui": null,
+   "qualifier_name": null,
+   "is_major_topic": false
+  },
+  {
+   "descriptor_ui": "D003201",
+   "descriptor_name": "Computers",
+   "qualifier_ui": null,
+   "qualifier_name": null,
+   "is_major_topic": false
+  },
+  {
+   "descriptor_ui": "D007802",
+   "descriptor_name": "Language",
+   "qualifier_ui": null,
+   "qualifier_name": null,
+   "is_major_topic": false
+  },
+  {
+   "descriptor_ui": "D007802",
+   "descriptor_name": "Language",
+   "qualifier_ui": null,
+   "qualifier_name": null,
+   "is_major_topic": false
+  },
+  {
+   "descriptor_ui": "D007802",
+   "descriptor_name": "Language",
+   "qualifier_ui": null,
+   "qualifier_name": null,
+   "is_major_topic": false
+  },
+  {
+   "descriptor_ui": "D016571",
+   "descriptor_name": "Neural Networks, Computer",
+   "qualifier_ui": null,
+   "qualifier_name": null,
+   "is_major_topic": false
+  },
+  {
+   "descriptor_ui": "D016571",
+   "descriptor_name": "Neural Networks, Computer",
+   "qualifier_ui": null,
+   "qualifier_name": null,
+   "is_major_topic": false
+  },
+  {
+   "descriptor_ui": "D016571",
+   "descriptor_name": "Neural Networks, Computer",
+   "qualifier_ui": null,
+   "qualifier_name": null,
+   "is_major_topic": false
+  }
+ ],
+ "locations_count": 3,
+ "locations": [
+  {
+   "id": "doi:10.1038/nature14539",
+   "is_oa": false,
+   "landing_page_url": "https://doi.org/10.1038/nature14539",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S137773608",
+    "display_name": "Nature",
+    "issn_l": "0028-0836",
+    "issn": [
+     "0028-0836",
+     "1476-4687"
+    ],
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": true,
+    "host_organization": "https://openalex.org/P4310319908",
+    "host_organization_name": "Nature Portfolio",
+    "host_organization_lineage": [
+     "https://openalex.org/P4310319908",
+     "https://openalex.org/P4310319965"
+    ],
+    "host_organization_lineage_names": [
+     "Nature Portfolio",
+     "Springer Nature"
+    ],
+    "type": "journal"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Nature",
+   "raw_type": "journal-article"
+  },
+  {
+   "id": "pmid:26017442",
+   "is_oa": false,
+   "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/26017442",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4306525036",
+    "display_name": "PubMed",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "host_organization": "https://openalex.org/I1299303238",
+    "host_organization_name": "National Institutes of Health",
+    "host_organization_lineage": [
+     "https://openalex.org/I1299303238"
+    ],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Nature",
+   "raw_type": null
+  },
+  {
+   "id": "pmh:oai:HAL:hal-04206682v1",
+   "is_oa": true,
+   "landing_page_url": "https://hal.science/hal-04206682",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4306402512",
+    "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "host_organization": "https://openalex.org/I1294671590",
+    "host_organization_name": "Centre National de la Recherche Scientifique",
+    "host_organization_lineage": [
+     "https://openalex.org/I1294671590"
+    ],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": "other-oa",
+   "license_id": "https://openalex.org/licenses/other-oa",
+   "version": "submittedVersion",
+   "is_accepted": false,
+   "is_published": false,
+   "raw_source_name": "Nature, 2015, 521 (7553), pp.436-444. &#x27E8;10.1038/nature14539&#x27E9;",
+   "raw_type": "info:eu-repo/semantics/article"
+  }
+ ],
+ "best_oa_location": {
+  "id": "pmh:oai:HAL:hal-04206682v1",
+  "is_oa": true,
+  "landing_page_url": "https://hal.science/hal-04206682",
+  "pdf_url": null,
+  "source": {
+   "id": "https://openalex.org/S4306402512",
+   "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+   "issn_l": null,
+   "issn": null,
+   "is_oa": false,
+   "is_in_doaj": false,
+   "is_core": false,
+   "host_organization": "https://openalex.org/I1294671590",
+   "host_organization_name": "Centre National de la Recherche Scientifique",
+   "host_organization_lineage": [
+    "https://openalex.org/I1294671590"
+   ],
+   "host_organization_lineage_names": [],
+   "type": "repository"
+  },
+  "license": "other-oa",
+  "license_id": "https://openalex.org/licenses/other-oa",
+  "version": "submittedVersion",
+  "is_accepted": false,
+  "is_published": false,
+  "raw_source_name": "Nature, 2015, 521 (7553), pp.436-444. &#x27E8;10.1038/nature14539&#x27E9;",
+  "raw_type": "info:eu-repo/semantics/article"
+ },
+ "sustainable_development_goals": [
+  {
+   "score": 0.6499999761581421,
+   "id": "https://metadata.un.org/sdg/4",
+   "display_name": "Quality Education"
+  }
+ ],
+ "awards": [],
+ "funders": [],
+ "has_content": {
+  "pdf": false,
+  "grobid_xml": false
+ },
+ "content_urls": null,
+ "referenced_works_count": 53,
+ "referenced_works": [
+  "https://openalex.org/W146900863",
+  "https://openalex.org/W170811313",
+  "https://openalex.org/W1487583988",
+  "https://openalex.org/W1498436455",
+  "https://openalex.org/W1514535095",
+  "https://openalex.org/W1573503290",
+  "https://openalex.org/W1752712236",
+  "https://openalex.org/W1970689298",
+  "https://openalex.org/W1978592082",
+  "https://openalex.org/W1993845689",
+  "https://openalex.org/W1993882792",
+  "https://openalex.org/W1999497791",
+  "https://openalex.org/W1999798000",
+  "https://openalex.org/W2022508996",
+  "https://openalex.org/W2025768430",
+  "https://openalex.org/W2064675550",
+  "https://openalex.org/W2072128103",
+  "https://openalex.org/W2074551195",
+  "https://openalex.org/W2085989895",
+  "https://openalex.org/W2088338354",
+  "https://openalex.org/W2091987367",
+  "https://openalex.org/W2095739681",
+  "https://openalex.org/W2098580305",
+  "https://openalex.org/W2100495367",
+  "https://openalex.org/W2107878631",
+  "https://openalex.org/W2108069432",
+  "https://openalex.org/W2111304802",
+  "https://openalex.org/W2112796928",
+  "https://openalex.org/W2116360511",
+  "https://openalex.org/W2117671523",
+  "https://openalex.org/W2120284346",
+  "https://openalex.org/W2120432001",
+  "https://openalex.org/W2121289914",
+  "https://openalex.org/W2136922672",
+  "https://openalex.org/W2144015117",
+  "https://openalex.org/W2144354855",
+  "https://openalex.org/W2145339207",
+  "https://openalex.org/W2146989110",
+  "https://openalex.org/W2157331557",
+  "https://openalex.org/W2158778629",
+  "https://openalex.org/W2160815625",
+  "https://openalex.org/W2163922914",
+  "https://openalex.org/W2166206801",
+  "https://openalex.org/W2169488311",
+  "https://openalex.org/W2169805405",
+  "https://openalex.org/W2800394774",
+  "https://openalex.org/W3139812727",
+  "https://openalex.org/W4232280717",
+  "https://openalex.org/W4249882522",
+  "https://openalex.org/W6630820455",
+  "https://openalex.org/W6674914833",
+  "https://openalex.org/W6683738474",
+  "https://openalex.org/W6743198006"
+ ],
+ "related_works": [
+  "https://openalex.org/W2088845016",
+  "https://openalex.org/W589102260",
+  "https://openalex.org/W1966421350",
+  "https://openalex.org/W1868434454",
+  "https://openalex.org/W4226493464",
+  "https://openalex.org/W3133861977",
+  "https://openalex.org/W2951211570",
+  "https://openalex.org/W3103566983",
+  "https://openalex.org/W3048601286",
+  "https://openalex.org/W2965925734"
+ ],
+ "abstract_inverted_index": null,
+ "counts_by_year": [
+  {
+   "year": 2026,
+   "cited_by_count": 5127
+  },
+  {
+   "year": 2025,
+   "cited_by_count": 10725
+  },
+  {
+   "year": 2024,
+   "cited_by_count": 9914
+  },
+  {
+   "year": 2023,
+   "cited_by_count": 9282
+  },
+  {
+   "year": 2022,
+   "cited_by_count": 9374
+  },
+  {
+   "year": 2021,
+   "cited_by_count": 10215
+  },
+  {
+   "year": 2020,
+   "cited_by_count": 9580
+  },
+  {
+   "year": 2019,
+   "cited_by_count": 8331
+  },
+  {
+   "year": 2018,
+   "cited_by_count": 5645
+  },
+  {
+   "year": 2017,
+   "cited_by_count": 3065
+  },
+  {
+   "year": 2016,
+   "cited_by_count": 1174
+  },
+  {
+   "year": 2015,
+   "cited_by_count": 177
+  },
+  {
+   "year": 2014,
+   "cited_by_count": 13
+  },
+  {
+   "year": 2013,
+   "cited_by_count": 5
+  },
+  {
+   "year": 2012,
+   "cited_by_count": 7
+  }
+ ],
+ "updated_date": "2026-07-27T08:26:11.824852",
+ "created_date": "2019-03-11T00:00:00"
+}

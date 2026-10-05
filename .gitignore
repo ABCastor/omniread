@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+.env
+
+# Test / cache
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# OmniRead runtime (never commit auth/session state)
+.omniread/
+*.session
+profiles/
+
+# OS
+.DS_Store
+CHANGES.log
+.codex-runs/
+.explorer-digest.md
+
+.publish-denylist
+work/
+tests/fixtures/patents_*.html
+tests/fixtures/real_redlib/
+tests/fixtures/oa_probe_2026-07-28.json

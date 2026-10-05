@@ -1,0 +1,99 @@
+{
+ "best_oa_location": {
+  "endpoint_id": "c857046970ca96381cf",
+  "evidence": "deprecated",
+  "host_type": "repository",
+  "is_best": true,
+  "license": "other-oa",
+  "oa_date": "2015-05-26",
+  "pmh_id": "oai:HAL:hal-04206682v1",
+  "repository_institution": "Centre National de la Recherche Scientifique",
+  "updated": "deprecated",
+  "url": "https://hal.science/hal-04206682",
+  "url_for_landing_page": "https://hal.science/hal-04206682",
+  "url_for_pdf": null,
+  "version": "submittedVersion"
+ },
+ "data_standard": 2,
+ "doi": "10.1038/nature14539",
+ "doi_url": "https://doi.org/10.1038/nature14539",
+ "first_oa_location": {
+  "endpoint_id": "c857046970ca96381cf",
+  "evidence": "deprecated",
+  "host_type": "repository",
+  "is_best": true,
+  "license": "other-oa",
+  "oa_date": "2015-05-26",
+  "pmh_id": "oai:HAL:hal-04206682v1",
+  "repository_institution": "Centre National de la Recherche Scientifique",
+  "updated": "deprecated",
+  "url": "https://hal.science/hal-04206682",
+  "url_for_landing_page": "https://hal.science/hal-04206682",
+  "url_for_pdf": null,
+  "version": "submittedVersion"
+ },
+ "genre": "journal-article",
+ "has_repository_copy": true,
+ "is_oa": true,
+ "is_paratext": false,
+ "journal_is_in_doaj": false,
+ "journal_is_oa": false,
+ "journal_issn_l": "0028-0836",
+ "journal_issns": "0028-0836,1476-4687",
+ "journal_name": "Nature",
+ "oa_locations": [
+  {
+   "endpoint_id": "c857046970ca96381cf",
+   "evidence": "deprecated",
+   "host_type": "repository",
+   "is_best": true,
+   "license": "other-oa",
+   "oa_date": "2015-05-26",
+   "pmh_id": "oai:HAL:hal-04206682v1",
+   "repository_institution": "Centre National de la Recherche Scientifique",
+   "updated": "deprecated",
+   "url": "https://hal.science/hal-04206682",
+   "url_for_landing_page": "https://hal.science/hal-04206682",
+   "url_for_pdf": null,
+   "version": "submittedVersion"
+  }
+ ],
+ "oa_locations_embargoed": [],
+ "oa_status": "green",
+ "published_date": "2015-05-26",
+ "publisher": "Springer Science and Business Media LLC",
+ "title": "Deep learning",
+ "updated": "2026-05-07T14:04:23Z",
+ "year": 2015,
+ "z_authors": [
+  {
+   "author_position": "first",
+   "is_corresponding": true,
+   "raw_affiliation_strings": [
+    "1] Facebook AI Research, 770 Broadway, New York, New York 10003 USA. [2] New York University, 715 Broadway, New York, New York 10003, USA",
+    "Facebook AI Research, 770 Broadway, New York, 10003, New York, USA",
+    "New York University, 715 Broadway, New York, 10003, New York, USA"
+   ],
+   "raw_author_name": "Yann LeCun"
+  },
+  {
+   "author_position": "middle",
+   "is_corresponding": false,
+   "raw_affiliation_strings": [
+    "Department of Computer Science and Operations Research Universit\u00e9 de Montr\u00e9al, Pavillon Andr\u00e9-Aisenstadt, PO Box 6128 Centre-Ville STN Montr\u00e9al, Quebec H3C 3J7, Canada",
+    "Department of Computer Science and Operations Research Universit\u00e9 de Montr\u00e9al, Pavillon Andr\u00e9-Aisenstadt, PO Box 6128 Centre-Ville STN, Montr\u00e9al, H3C 3J7, Quebec, Canada"
+   ],
+   "raw_author_name": "Yoshua Bengio"
+  },
+  {
+   "author_position": "last",
+   "is_corresponding": false,
+   "raw_affiliation_strings": [
+    "1] Google, 1600 Amphitheatre Parkway, Mountain View, California 94043, USA. [2] Department of Computer Science, University of Toronto, 6 King's College Road, Toronto, Ontario M5S 3G4, Canada",
+    "Google, 1600 Amphitheatre Parkway, Mountain View, 94043, California, USA",
+    "Department of Computer Science, University of Toronto, 6 King's College Road, Toronto, M5S 3G4, Ontario, Canada"
+   ],
+   "raw_author_name": "Geoffrey Hinton"
+  }
+ ]
+}

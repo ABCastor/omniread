@@ -1,0 +1,1762 @@
+{
+ "version": "6.9",
+ "hitCount": 1,
+ "request": {
+  "queryString": "DOI:\"10.1056/NEJMoa2034577\"",
+  "resultType": "core",
+  "cursorMark": "*",
+  "pageSize": 25,
+  "sort": "",
+  "synonym": false
+ },
+ "resultList": {
+  "result": [
+   {
+    "id": "33301246",
+    "source": "MED",
+    "pmid": "33301246",
+    "pmcid": "PMC7745181",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC7745181"
+     ]
+    },
+    "doi": "10.1056/nejmoa2034577",
+    "title": "Safety and Efficacy of the BNT162b2 mRNA Covid-19 Vaccine.",
+    "authorString": "Polack FP, Thomas SJ, Kitchin N, Absalon J, Gurtman A, Lockhart S, Perez JL, P\u00e9rez Marc G, Moreira ED, Zerbini C, Bailey R, Swanson KA, Roychoudhury S, Koury K, Li P, Kalina WV, Cooper D, Frenck RW, Hammitt LL, T\u00fcreci \u00d6, Nell H, Schaefer A, \u00dcnal S, Tresnan DB, Mather S, Dormitzer PR, \u015eahin U, Jansen KU, Gruber WC, C4591001 Clinical Trial Group.",
+    "authorList": {
+     "author": [
+      {
+       "fullName": "Polack FP",
+       "firstName": "Fernando P",
+       "lastName": "Polack",
+       "initials": "FP",
+       "authorAffiliationDetailsList": {
+        "authorAffiliation": [
+         {
+          "affiliation": "From Fundacion INFANT (F.P.P.) and iTrials-Hospital Militar Central (G.P.M.), Buenos Aires; State University of New York, Upstate Medical University, Syracuse (S.J.T.), and Vaccine Research and Development, Pfizer, Pearl River (J.A., A.G., K.A.S., K.K., W.V.K., D.C., P.R.D., K.U.J., W.C.G.) - both in New York; Vaccine Research and Development, Pfizer, Hurley, United Kingdom (N.K., S.L., R.B.); Vaccine Research and Development (J.L.P., P.L.) and Worldwide Safety, Safety Surveillance and Risk Management (S.M.), Pfizer, Collegeville, PA; Associa\u00e7\u00e3o Obras Sociais Irm\u00e3 Dulce and Oswaldo Cruz Foundation, Bahia (E.D.M.), and Centro Paulista de Investiga\u00e7\u00e3o Clinica, S\u00e3o Paulo (C.Z.) - both in Brazil; Global Product Development, Pfizer, Peapack, NJ (S.R.); Cincinnati Children's Hospital, Cincinnati (R.W.F.); Johns Hopkins Bloomberg School of Public Health, Baltimore (L.L.H.); BioNTech, Mainz (\u00d6T., U.\u015e.), and Medizentrum Essen Borbeck, Essen (A.S.) - both in Germany; Tiervlei Trial Centre, Karl Bremer Hospital, Cape Town, South Africa (H.N.); Hacettepe University, Ankara, Turkey (S.\u00dc.); and Worldwide Safety, Safety Surveillance and Risk Management, Pfizer, Groton, CT (D.B.T.)."
+         }
+        ]
+       }
+      },
+      {
+       "fullName": "Thomas SJ",
+       "firstName": "Stephen J",
+       "lastName": "Thomas",
+       "initials": "SJ",
+       "authorAffiliationDetailsList": {
+        "authorAffiliation": [
+         {
+          "affiliation": "From Fundacion INFANT (F.P.P.) and iTrials-Hospital Militar Central (G.P.M.), Buenos Aires; State University of New York, Upstate Medical University, Syracuse (S.J.T.), and Vaccine Research and Development, Pfizer, Pearl River (J.A., A.G., K.A.S., K.K., W.V.K., D.C., P.R.D., K.U.J., W.C.G.) - both in New York; Vaccine Research and Development, Pfizer, Hurley, United Kingdom (N.K., S.L., R.B.); Vaccine Research and Development (J.L.P., P.L.) and Worldwide Safety, Safety Surveillance and Risk Management (S.M.), Pfizer, Collegeville, PA; Associa\u00e7\u00e3o Obras Sociais Irm\u00e3 Dulce and Oswaldo Cruz Foundation, Bahia (E.D.M.), and Centro Paulista de Investiga\u00e7\u00e3o Clinica, S\u00e3o Paulo (C.Z.) - both in Brazil; Global Product Development, Pfizer, Peapack, NJ (S.R.); Cincinnati Children's Hospital, Cincinnati (R.W.F.); Johns Hopkins Bloomberg School of Public Health, Baltimore (L.L.H.); BioNTech, Mainz (\u00d6T., U.\u015e.), and Medizentrum Essen Borbeck, Essen (A.S.) - both in Germany; Tiervlei Trial Centre, Karl Bremer Hospital, Cape Town, South Africa (H.N.); Hacettepe University, Ankara, Turkey (S.\u00dc.); and Worldwide Safety, Safety Surveillance and Risk Management, Pfizer, Groton, CT (D.B.T.)."
+         }
+        ]
+       }
+      },
+      {
+       "fullName": "Kitchin N",
+       "firstName": "Nicholas",
+       "lastName": "Kitchin",
+       "initials": "N",
+       "authorAffiliationDetailsList": {
+        "authorAffiliation": [
+         {
+          "affiliation": "From Fundacion INFANT (F.P.P.) and iTrials-Hospital Militar Central (G.P.M.), Buenos Aires; State University of New York, Upstate Medical University, Syracuse (S.J.T.), and Vaccine Research and Development, Pfizer, Pearl River (J.A., A.G., K.A.S., K.K., W.V.K., D.C., P.R.D., K.U.J., W.C.G.) - both in New York; Vaccine Research and Development, Pfizer, Hurley, United Kingdom (N.K., S.L., R.B.); Vaccine Research and Development (J.L.P., P.L.) and Worldwide Safety, Safety Surveillance and Risk Management (S.M.), Pfizer, Collegeville, PA; Associa\u00e7\u00e3o Obras Sociais Irm\u00e3 Dulce and Oswaldo Cruz Foundation, Bahia (E.D.M.), and Centro Paulista de Investiga\u00e7\u00e3o Clinica, S\u00e3o Paulo (C.Z.) - both in Brazil; Global Product Development, Pfizer, Peapack, NJ (S.R.); Cincinnati Children's Hospital, Cincinnati (R.W.F.); Johns Hopkins Bloomberg School of Public Health, Baltimore (L.L.H.); BioNTech, Mainz (\u00d6T., U.\u015e.), and Medizentrum Essen Borbeck, Essen (A.S.) - both in Germany; Tiervlei Trial Centre, Karl Bremer Hospital, Cape Town, South Africa (H.N.); Hacettepe University, Ankara, Turkey (S.\u00dc.); and Worldwide Safety, Safety Surveillance and Risk Management, Pfizer, Groton, CT (D.B.T.)."
+         }
+        ]
+       }
+      },
+      {
+       "fullName": "Absalon J",
+       "firstName": "Judith",
+       "lastName": "Absalon",
+       "initials": "J",
+       "authorAffiliationDetailsList": {
+        "authorAffiliation": [
+         {
+          "affiliation": "From Fundacion INFANT (F.P.P.) and iTrials-Hospital Militar Central (G.P.M.), Buenos Aires; State University of New York, Upstate Medical University, Syracuse (S.J.T.), and Vaccine Research and Development, Pfizer, Pearl River (J.A., A.G., K.A.S., K.K., W.V.K., D.C., P.R.D., K.U.J., W.C.G.) - both in New York; Vaccine Research and Development, Pfizer, Hurley, United Kingdom (N.K., S.L., R.B.); Vaccine Research and Development (J.L.P., P.L.) and Worldwide Safety, Safety Surveillance and Risk Management (S.M.), Pfizer, Collegeville, PA; Associa\u00e7\u00e3o Obras Sociais Irm\u00e3 Dulce and Oswaldo Cruz Foundation, Bahia (E.D.M.), and Centro Paulista de Investiga\u00e7\u00e3o Clinica, S\u00e3o Paulo (C.Z.) - both in Brazil; Global Product Development, Pfizer, Peapack, NJ (S.R.); Cincinnati Children's Hospital, Cincinnati (R.W.F.); Johns Hopkins Bloomberg School of Public Health, Baltimore (L.L.H.); BioNTech, Mainz (\u00d6T., U.\u015e.), and Medizentrum Essen Borbeck, Essen (A.S.) - both in Germany; Tiervlei Trial Centre, Karl Bremer Hospital, Cape Town, South Africa (H.N.); Hacettepe University, Ankara, Turkey (S.\u00dc.); and Worldwide Safety, Safety Surveillance and Risk Management, Pfizer, Groton, CT (D.B.T.)."
+         }
+        ]
+       }
+      },
+      {
+       "fullName": "Gurtman A",
+       "firstName": "Alejandra",
+       "lastName": "Gurtman",
+       "initials": "A",
+       "authorAffiliationDetailsList": {
+        "authorAffiliation": [
+         {
+          "affiliation": "From Fundacion INFANT (F.P.P.) and iTrials-Hospital Militar Central (G.P.M.), Buenos Aires; State University of New York, Upstate Medical University, Syracuse (S.J.T.), and Vaccine Research and Development, Pfizer, Pearl River (J.A., A.G., K.A.S., K.K., W.V.K., D.C., P.R.D., K.U.J., W.C.G.) - both in New York; Vaccine Research and Development, Pfizer, Hurley, United Kingdom (N.K., S.L., R.B.); Vaccine Research and Development (J.L.P., P.L.) and Worldwide Safety, Safety Surveillance and Risk Management (S.M.), Pfizer, Collegeville, PA; Associa\u00e7\u00e3o Obras Sociais Irm\u00e3 Dulce and Oswaldo Cruz Foundation, Bahia (E.D.M.), and Centro Paulista de Investiga\u00e7\u00e3o Clinica, S\u00e3o Paulo (C.Z.) - both in Brazil; Global Product Development, Pfizer, Peapack, NJ (S.R.); Cincinnati Children's Hospital, Cincinnati (R.W.F.); Johns Hopkins Bloomberg School of Public Health, Baltimore (L.L.H.); BioNTech, Mainz (\u00d6T., U.\u015e.), and Medizentrum Essen Borbeck, Essen (A.S.) - both in Germany; Tiervlei Trial Centre, Karl Bremer Hospital, Cape Town, South Africa (H.N.); Hacettepe University, Ankara, Turkey (S.\u00dc.); and Worldwide Safety, Safety Surveillance and Risk Management, Pfizer, Groton, CT (D.B.T.)."
+         }
+        ]
+       }
+      },
+      {
+       "fullName": "Lockhart S",
+       "firstName": "Stephen",
+       "lastName": "Lockhart",
+       "initials": "S",
+       "authorId": {
+        "type": "ORCID",
+        "value": "0000-0002-0805-2193"
+       },
+       "authorAffiliationDetailsList": {
+        "authorAffiliation": [
+         {
+          "affiliation": "From Fundacion INFANT (F.P.P.) and iTrials-Hospital Militar Central (G.P.M.), Buenos Aires; State University of New York, Upstate Medical University, Syracuse (S.J.T.), and Vaccine Research and Development, Pfizer, Pearl River (J.A., A.G., K.A.S., K.K., W.V.K., D.C., P.R.D., K.U.J., W.C.G.) - both in New York; Vaccine Research and Development, Pfizer, Hurley, United Kingdom (N.K., S.L., R.B.); Vaccine Research and Development (J.L.P., P.L.) and Worldwide Safety, Safety Surveillance and Risk Management (S.M.), Pfizer, Collegeville, PA; Associa\u00e7\u00e3o Obras Sociais Irm\u00e3 Dulce and Oswaldo Cruz Foundation, Bahia (E.D.M.), and Centro Paulista de Investiga\u00e7\u00e3o Clinica, S\u00e3o Paulo (C.Z.) - both in Brazil; Global Product Development, Pfizer, Peapack, NJ (S.R.); Cincinnati Children's Hospital, Cincinnati (R.W.F.); Johns Hopkins Bloomberg School of Public Health, Baltimore (L.L.H.); BioNTech, Mainz (\u00d6T., U.\u015e.), and Medizentrum Essen Borbeck, Essen (A.S.) - both in Germany; Tiervlei Trial Centre, Karl Bremer Hospital, Cape Town, South Africa (H.N.); Hacettepe University, Ankara, Turkey (S.\u00dc.); and Worldwide Safety, Safety Surveillance and Risk Management, Pfizer, Groton, CT (D.B.T.)."
+         }
+        ]
+       }
+      },
+      {
+       "fullName": "Perez JL",
+       "firstName": "John L",
+       "lastName": "Perez",
+       "initials": "JL",
+       "authorAffiliationDetailsList": {
+        "authorAffiliation": [
+         {
+          "affiliation": "From Fundacion INFANT (F.P.P.) and iTrials-Hospital Militar Central (G.P.M.), Buenos Aires; State University of New York, Upstate Medical University, Syracuse (S.J.T.), and Vaccine Research and Development, Pfizer, Pearl River (J.A., A.G., K.A.S., K.K., W.V.K., D.C., P.R.D., K.U.J., W.C.G.) - both in New York; Vaccine Research and Development, Pfizer, Hurley, United Kingdom (N.K., S.L., R.B.); Vaccine Research and Development (J.L.P., P.L.) and Worldwide Safety, Safety Surveillance and Risk Management (S.M.), Pfizer, Collegeville, PA; Associa\u00e7\u00e3o Obras Sociais Irm\u00e3 Dulce and Oswaldo Cruz Foundation, Bahia (E.D.M.), and Centro Paulista de Investiga\u00e7\u00e3o Clinica, S\u00e3o Paulo (C.Z.) - both in Brazil; Global Product Development, Pfizer, Peapack, NJ (S.R.); Cincinnati Children's Hospital, Cincinnati (R.W.F.); Johns Hopkins Bloomberg School of Public Health, Baltimore (L.L.H.); BioNTech, Mainz (\u00d6T., U.\u015e.), and Medizentrum Essen Borbeck, Essen (A.S.) - both in Germany; Tiervlei Trial Centre, Karl Bremer Hospital, Cape Town, South Africa (H.N.); Hacettepe University, Ankara, Turkey (S.\u00dc.); and Worldwide Safety, Safety Surveillance and Risk Management, Pfizer, Groton, CT (D.B.T.)."
+         }
+        ]
+       }
+      },
+      {
+       "fullName": "P\u00e9rez Marc G",
+       "firstName": "Gonzalo",
+       "lastName": "P\u00e9rez Marc",
+       "initials": "G",
+       "authorAffiliationDetailsList": {
+        "authorAffiliation": [
+         {
+          "affiliation": "From Fundacion INFANT (F.P.P.) and iTrials-Hospital Militar Central (G.P.M.), Buenos Aires; State University of New York, Upstate Medical University, Syracuse (S.J.T.), and Vaccine Research and Development, Pfizer, Pearl River (J.A., A.G., K.A.S., K.K., W.V.K., D.C., P.R.D., K.U.J., W.C.G.) - both in New York; Vaccine Research and Development, Pfizer, Hurley, United Kingdom (N.K., S.L., R.B.); Vaccine Research and Development (J.L.P., P.L.) and Worldwide Safety, Safety Surveillance and Risk Management (S.M.), Pfizer, Collegeville, PA; Associa\u00e7\u00e3o Obras Sociais Irm\u00e3 Dulce and Oswaldo Cruz Foundation, Bahia (E.D.M.), and Centro Paulista de Investiga\u00e7\u00e3o Clinica, S\u00e3o Paulo (C.Z.) - both in Brazil; Global Product Development, Pfizer, Peapack, NJ (S.R.); Cincinnati Children's Hospital, Cincinnati (R.W.F.); Johns Hopkins Bloomberg School of Public Health, Baltimore (L.L.H.); BioNTech, Mainz (\u00d6T., U.\u015e.), and Medizentrum Essen Borbeck, Essen (A.S.) - both in Germany; Tiervlei Trial Centre, Karl Bremer Hospital, Cape Town, South Africa (H.N.); Hacettepe University, Ankara, Turkey (S.\u00dc.); and Worldwide Safety, Safety Surveillance and Risk Management, Pfizer, Groton, CT (D.B.T.)."
+         }
+        ]
+       }
+      },
+      {
+       "fullName": "Moreira ED",
+       "firstName": "Edson D",
+       "lastName": "Moreira",
+       "initials": "ED",
+       "authorAffiliationDetailsList": {
+        "authorAffiliation": [
+         {
+          "affiliation": "From Fundacion INFANT (F.P.P.) and iTrials-Hospital Militar Central (G.P.M.), Buenos Aires; State University of New York, Upstate Medical University, Syracuse (S.J.T.), and Vaccine Research and Development, Pfizer, Pearl River (J.A., A.G., K.A.S., K.K., W.V.K., D.C., P.R.D., K.U.J., W.C.G.) - both in New York; Vaccine Research and Development, Pfizer, Hurley, United Kingdom (N.K., S.L., R.B.); Vaccine Research and Development (J.L.P., P.L.) and Worldwide Safety, Safety Surveillance and Risk Management (S.M.), Pfizer, Collegeville, PA; Associa\u00e7\u00e3o Obras Sociais Irm\u00e3 Dulce and Oswaldo Cruz Foundation, Bahia (E.D.M.), and Centro Paulista de Investiga\u00e7\u00e3o Clinica, S\u00e3o Paulo (C.Z.) - both in Brazil; Global Product Development, Pfizer, Peapack, NJ (S.R.); Cincinnati Children's Hospital, Cincinnati (R.W.F.); Johns Hopkins Bloomberg School of Public Health, Baltimore (L.L.H.); BioNTech, Mainz (\u00d6T., U.\u015e.), and Medizentrum Essen Borbeck, Essen (A.S.) - both in Germany; Tiervlei Trial Centre, Karl Bremer Hospital, Cape Town, South Africa (H.N.); Hacettepe University, Ankara, Turkey (S.\u00dc.); and Worldwide Safety, Safety Surveillance and Risk Management, Pfizer, Groton, CT (D.B.T.)."
+         }
+        ]
+       }
+      },
+      {
+       "fullName": "Zerbini C",
+       "firstName": "Cristiano",
+       "lastName": "Zerbini",
+       "initials": "C",
+       "authorAffiliationDetailsList": {
+        "authorAffiliation": [
+         {
+          "affiliation": "From Fundacion INFANT (F.P.P.) and iTrials-Hospital Militar Central (G.P.M.), Buenos Aires; State University of New York, Upstate Medical University, Syracuse (S.J.T.), and Vaccine Research and Development, Pfizer, Pearl River (J.A., A.G., K.A.S., K.K., W.V.K., D.C., P.R.D., K.U.J., W.C.G.) - both in New York; Vaccine Research and Development, Pfizer, Hurley, United Kingdom (N.K., S.L., R.B.); Vaccine Research and Development (J.L.P., P.L.) and Worldwide Safety, Safety Surveillance and Risk Management (S.M.), Pfizer, Collegeville, PA; Associa\u00e7\u00e3o Obras Sociais Irm\u00e3 Dulce and Oswaldo Cruz Foundation, Bahia (E.D.M.), and Centro Paulista de Investiga\u00e7\u00e3o Clinica, S\u00e3o Paulo (C.Z.) - both in Brazil; Global Product Development, Pfizer, Peapack, NJ (S.R.); Cincinnati Children's Hospital, Cincinnati (R.W.F.); Johns Hopkins Bloomberg School of Public Health, Baltimore (L.L.H.); BioNTech, Mainz (\u00d6T., U.\u015e.), and Medizentrum Essen Borbeck, Essen (A.S.) - both in Germany; Tiervlei Trial Centre, Karl Bremer Hospital, Cape Town, South Africa (H.N.); Hacettepe University, Ankara, Turkey (S.\u00dc.); and Worldwide Safety, Safety Surveillance and Risk Management, Pfizer, Groton, CT (D.B.T.)."
+         }
+        ]
+       }
+      },
+      {
+       "fullName": "Bailey R",
+       "firstName": "Ruth",
+       "lastName": "Bailey",
+       "initials": "R",
+       "authorAffiliationDetailsList": {
+        "authorAffiliation": [
+         {
+          "affiliation": "From Fundacion INFANT (F.P.P.) and iTrials-Hospital Militar Central (G.P.M.), Buenos Aires; State University of New York, Upstate Medical University, Syracuse (S.J.T.), and Vaccine Research and Development, Pfizer, Pearl River (J.A., A.G., K.A.S., K.K., W.V.K., D.C., P.R.D., K.U.J., W.C.G.) - both in New York; Vaccine Research and Development, Pfizer, Hurley, United Kingdom (N.K., S.L., R.B.); Vaccine Research and Development (J.L.P., P.L.) and Worldwide Safety, Safety Surveillance and Risk Management (S.M.), Pfizer, Collegeville, PA; Associa\u00e7\u00e3o Obras Sociais Irm\u00e3 Dulce and Oswaldo Cruz Foundation, Bahia (E.D.M.), and Centro Paulista de Investiga\u00e7\u00e3o Clinica, S\u00e3o Paulo (C.Z.) - both in Brazil; Global Product Development, Pfizer, Peapack, NJ (S.R.); Cincinnati Children's Hospital, Cincinnati (R.W.F.); Johns Hopkins Bloomberg School of Public Health, Baltimore (L.L.H.); BioNTech, Mainz (\u00d6T., U.\u015e.), and Medizentrum Essen Borbeck, Essen (A.S.) - both in Germany; Tiervlei Trial Centre, Karl Bremer Hospital, Cape Town, South Africa (H.N.); Hacettepe University, Ankara, Turkey (S.\u00dc.); and Worldwide Safety, Safety Surveillance and Risk Management, Pfizer, Groton, CT (D.B.T.)."
+         }
+        ]
+       }
+      },
+      {
+       "fullName": "Swanson KA",
+       "firstName": "Kena A",
+       "lastName": "Swanson",
+       "initials": "KA",
+       "authorAffiliationDetailsList": {
+        "authorAffiliation": [
+         {
+          "affiliation": "From Fundacion INFANT (F.P.P.) and iTrials-Hospital Militar Central (G.P.M.), Buenos Aires; State University of New York, Upstate Medical University, Syracuse (S.J.T.), and Vaccine Research and Development, Pfizer, Pearl River (J.A., A.G., K.A.S., K.K., W.V.K., D.C., P.R.D., K.U.J., W.C.G.) - both in New York; Vaccine Research and Development, Pfizer, Hurley, United Kingdom (N.K., S.L., R.B.); Vaccine Research and Development (J.L.P., P.L.) and Worldwide Safety, Safety Surveillance and Risk Management (S.M.), Pfizer, Collegeville, PA; Associa\u00e7\u00e3o Obras Sociais Irm\u00e3 Dulce and Oswaldo Cruz Foundation, Bahia (E.D.M.), and Centro Paulista de Investiga\u00e7\u00e3o Clinica, S\u00e3o Paulo (C.Z.) - both in Brazil; Global Product Development, Pfizer, Peapack, NJ (S.R.); Cincinnati Children's Hospital, Cincinnati (R.W.F.); Johns Hopkins Bloomberg School of Public Health, Baltimore (L.L.H.); BioNTech, Mainz (\u00d6T., U.\u015e.), and Medizentrum Essen Borbeck, Essen (A.S.) - both in Germany; Tiervlei Trial Centre, Karl Bremer Hospital, Cape Town, South Africa (H.N.); Hacettepe University, Ankara, Turkey (S.\u00dc.); and Worldwide Safety, Safety Surveillance and Risk Management, Pfizer, Groton, CT (D.B.T.)."
+         }
+        ]
+       }
+      },
+      {
+       "fullName": "Roychoudhury S",
+       "firstName": "Satrajit",
+       "lastName": "Roychoudhury",
+       "initials": "S",
+       "authorAffiliationDetailsList": {
+        "authorAffiliation": [
+         {
+          "affiliation": "From Fundacion INFANT (F.P.P.) and iTrials-Hospital Militar Central (G.P.M.), Buenos Aires; State University of New York, Upstate Medical University, Syracuse (S.J.T.), and Vaccine Research and Development, Pfizer, Pearl River (J.A., A.G., K.A.S., K.K., W.V.K., D.C., P.R.D., K.U.J., W.C.G.) - both in New York; Vaccine Research and Development, Pfizer, Hurley, United Kingdom (N.K., S.L., R.B.); Vaccine Research and Development (J.L.P., P.L.) and Worldwide Safety, Safety Surveillance and Risk Management (S.M.), Pfizer, Collegeville, PA; Associa\u00e7\u00e3o Obras Sociais Irm\u00e3 Dulce and Oswaldo Cruz Foundation, Bahia (E.D.M.), and Centro Paulista de Investiga\u00e7\u00e3o Clinica, S\u00e3o Paulo (C.Z.) - both in Brazil; Global Product Development, Pfizer, Peapack, NJ (S.R.); Cincinnati Children's Hospital, Cincinnati (R.W.F.); Johns Hopkins Bloomberg School of Public Health, Baltimore (L.L.H.); BioNTech, Mainz (\u00d6T., U.\u015e.), and Medizentrum Essen Borbeck, Essen (A.S.) - both in Germany; Tiervlei Trial Centre, Karl Bremer Hospital, Cape Town, South Africa (H.N.); Hacettepe University, Ankara, Turkey (S.\u00dc.); and Worldwide Safety, Safety Surveillance and Risk Management, Pfizer, Groton, CT (D.B.T.)."
+         }
+        ]
+       }
+      },
+      {
+       "fullName": "Koury K",
+       "firstName": "Kenneth",
+       "lastName": "Koury",
+       "initials": "K",
+       "authorAffiliationDetailsList": {
+        "authorAffiliation": [
+         {
+          "affiliation": "From Fundacion INFANT (F.P.P.) and iTrials-Hospital Militar Central (G.P.M.), Buenos Aires; State University of New York, Upstate Medical University, Syracuse (S.J.T.), and Vaccine Research and Development, Pfizer, Pearl River (J.A., A.G., K.A.S., K.K., W.V.K., D.C., P.R.D., K.U.J., W.C.G.) - both in New York; Vaccine Research and Development, Pfizer, Hurley, United Kingdom (N.K., S.L., R.B.); Vaccine Research and Development (J.L.P., P.L.) and Worldwide Safety, Safety Surveillance and Risk Management (S.M.), Pfizer, Collegeville, PA; Associa\u00e7\u00e3o Obras Sociais Irm\u00e3 Dulce and Oswaldo Cruz Foundation, Bahia (E.D.M.), and Centro Paulista de Investiga\u00e7\u00e3o Clinica, S\u00e3o Paulo (C.Z.) - both in Brazil; Global Product Development, Pfizer, Peapack, NJ (S.R.); Cincinnati Children's Hospital, Cincinnati (R.W.F.); Johns Hopkins Bloomberg School of Public Health, Baltimore (L.L.H.); BioNTech, Mainz (\u00d6T., U.\u015e.), and Medizentrum Essen Borbeck, Essen (A.S.) - both in Germany; Tiervlei Trial Centre, Karl Bremer Hospital, Cape Town, South Africa (H.N.); Hacettepe University, Ankara, Turkey (S.\u00dc.); and Worldwide Safety, Safety Surveillance and Risk Management, Pfizer, Groton, CT (D.B.T.)."
+         }
+        ]
+       }
+      },
+      {
+       "fullName": "Li P",
+       "firstName": "Ping",
+       "lastName": "Li",
+       "initials": "P",
+       "authorAffiliationDetailsList": {
+        "authorAffiliation": [
+         {
+          "affiliation": "From Fundacion INFANT (F.P.P.) and iTrials-Hospital Militar Central (G.P.M.), Buenos Aires; State University of New York, Upstate Medical University, Syracuse (S.J.T.), and Vaccine Research and Development, Pfizer, Pearl River (J.A., A.G., K.A.S., K.K., W.V.K., D.C., P.R.D., K.U.J., W.C.G.) - both in New York; Vaccine Research and Development, Pfizer, Hurley, United Kingdom (N.K., S.L., R.B.); Vaccine Research and Development (J.L.P., P.L.) and Worldwide Safety, Safety Surveillance and Risk Management (S.M.), Pfizer, Collegeville, PA; Associa\u00e7\u00e3o Obras Sociais Irm\u00e3 Dulce and Oswaldo Cruz Foundation, Bahia (E.D.M.), and Centro Paulista de Investiga\u00e7\u00e3o Clinica, S\u00e3o Paulo (C.Z.) - both in Brazil; Global Product Development, Pfizer, Peapack, NJ (S.R.); Cincinnati Children's Hospital, Cincinnati (R.W.F.); Johns Hopkins Bloomberg School of Public Health, Baltimore (L.L.H.); BioNTech, Mainz (\u00d6T., U.\u015e.), and Medizentrum Essen Borbeck, Essen (A.S.) - both in Germany; Tiervlei Trial Centre, Karl Bremer Hospital, Cape Town, South Africa (H.N.); Hacettepe University, Ankara, Turkey (S.\u00dc.); and Worldwide Safety, Safety Surveillance and Risk Management, Pfizer, Groton, CT (D.B.T.)."
+         }
+        ]
+       }
+      },
+      {
+       "fullName": "Kalina WV",
+       "firstName": "Warren V",
+       "lastName": "Kalina",
+       "initials": "WV",
+       "authorAffiliationDetailsList": {
+        "authorAffiliation": [
+         {
+          "affiliation": "From Fundacion INFANT (F.P.P.) and iTrials-Hospital Militar Central (G.P.M.), Buenos Aires; State University of New York, Upstate Medical University, Syracuse (S.J.T.), and Vaccine Research and Development, Pfizer, Pearl River (J.A., A.G., K.A.S., K.K., W.V.K., D.C., P.R.D., K.U.J., W.C.G.) - both in New York; Vaccine Research and Development, Pfizer, Hurley, United Kingdom (N.K., S.L., R.B.); Vaccine Research and Development (J.L.P., P.L.) and Worldwide Safety, Safety Surveillance and Risk Management (S.M.), Pfizer, Collegeville, PA; Associa\u00e7\u00e3o Obras Sociais Irm\u00e3 Dulce and Oswaldo Cruz Foundation, Bahia (E.D.M.), and Centro Paulista de Investiga\u00e7\u00e3o Clinica, S\u00e3o Paulo (C.Z.) - both in Brazil; Global Product Development, Pfizer, Peapack, NJ (S.R.); Cincinnati Children's Hospital, Cincinnati (R.W.F.); Johns Hopkins Bloomberg School of Public Health, Baltimore (L.L.H.); BioNTech, Mainz (\u00d6T., U.\u015e.), and Medizentrum Essen Borbeck, Essen (A.S.) - both in Germany; Tiervlei Trial Centre, Karl Bremer Hospital, Cape Town, South Africa (H.N.); Hacettepe University, Ankara, Turkey (S.\u00dc.); and Worldwide Safety, Safety Surveillance and Risk Management, Pfizer, Groton, CT (D.B.T.)."
+         }
+        ]
+       }
+      },
+      {
+       "fullName": "Cooper D",
+       "firstName": "David",
+       "lastName": "Cooper",
+       "initials": "D",
+       "authorAffiliationDetailsList": {
+        "authorAffiliation": [
+         {
+          "affiliation": "From Fundacion INFANT (F.P.P.) and iTrials-Hospital Militar Central (G.P.M.), Buenos Aires; State University of New York, Upstate Medical University, Syracuse (S.J.T.), and Vaccine Research and Development, Pfizer, Pearl River (J.A., A.G., K.A.S., K.K., W.V.K., D.C., P.R.D., K.U.J., W.C.G.) - both in New York; Vaccine Research and Development, Pfizer, Hurley, United Kingdom (N.K., S.L., R.B.); Vaccine Research and Development (J.L.P., P.L.) and Worldwide Safety, Safety Surveillance and Risk Management (S.M.), Pfizer, Collegeville, PA; Associa\u00e7\u00e3o Obras Sociais Irm\u00e3 Dulce and Oswaldo Cruz Foundation, Bahia (E.D.M.), and Centro Paulista de Investiga\u00e7\u00e3o Clinica, S\u00e3o Paulo (C.Z.) - both in Brazil; Global Product Development, Pfizer, Peapack, NJ (S.R.); Cincinnati Children's Hospital, Cincinnati (R.W.F.); Johns Hopkins Bloomberg School of Public Health, Baltimore (L.L.H.); BioNTech, Mainz (\u00d6T., U.\u015e.), and Medizentrum Essen Borbeck, Essen (A.S.) - both in Germany; Tiervlei Trial Centre, Karl Bremer Hospital, Cape Town, South Africa (H.N.); Hacettepe University, Ankara, Turkey (S.\u00dc.); and Worldwide Safety, Safety Surveillance and Risk Management, Pfizer, Groton, CT (D.B.T.)."
+         }
+        ]
+       }
+      },
+      {
+       "fullName": "Frenck RW Jr",
+       "firstName": "Robert W",
+       "lastName": "Frenck",
+       "initials": "RW",
+       "authorAffiliationDetailsList": {
+        "authorAffiliation": [
+         {
+          "affiliation": "From Fundacion INFANT (F.P.P.) and iTrials-Hospital Militar Central (G.P.M.), Buenos Aires; State University of New York, Upstate Medical University, Syracuse (S.J.T.), and Vaccine Research and Development, Pfizer, Pearl River (J.A., A.G., K.A.S., K.K., W.V.K., D.C., P.R.D., K.U.J., W.C.G.) - both in New York; Vaccine Research and Development, Pfizer, Hurley, United Kingdom (N.K., S.L., R.B.); Vaccine Research and Development (J.L.P., P.L.) and Worldwide Safety, Safety Surveillance and Risk Management (S.M.), Pfizer, Collegeville, PA; Associa\u00e7\u00e3o Obras Sociais Irm\u00e3 Dulce and Oswaldo Cruz Foundation, Bahia (E.D.M.), and Centro Paulista de Investiga\u00e7\u00e3o Clinica, S\u00e3o Paulo (C.Z.) - both in Brazil; Global Product Development, Pfizer, Peapack, NJ (S.R.); Cincinnati Children's Hospital, Cincinnati (R.W.F.); Johns Hopkins Bloomberg School of Public Health, Baltimore (L.L.H.); BioNTech, Mainz (\u00d6T., U.\u015e.), and Medizentrum Essen Borbeck, Essen (A.S.) - both in Germany; Tiervlei Trial Centre, Karl Bremer Hospital, Cape Town, South Africa (H.N.); Hacettepe University, Ankara, Turkey (S.\u00dc.); and Worldwide Safety, Safety Surveillance and Risk Management, Pfizer, Groton, CT (D.B.T.)."
+         }
+        ]
+       }
+      },
+      {
+       "fullName": "Hammitt LL",
+       "firstName": "Laura L",
+       "lastName": "Hammitt",
+       "initials": "LL",
+       "authorAffiliationDetailsList": {
+        "authorAffiliation": [
+         {
+          "affiliation": "From Fundacion INFANT (F.P.P.) and iTrials-Hospital Militar Central (G.P.M.), Buenos Aires; State University of New York, Upstate Medical University, Syracuse (S.J.T.), and Vaccine Research and Development, Pfizer, Pearl River (J.A., A.G., K.A.S., K.K., W.V.K., D.C., P.R.D., K.U.J., W.C.G.) - both in New York; Vaccine Research and Development, Pfizer, Hurley, United Kingdom (N.K., S.L., R.B.); Vaccine Research and Development (J.L.P., P.L.) and Worldwide Safety, Safety Surveillance and Risk Management (S.M.), Pfizer, Collegeville, PA; Associa\u00e7\u00e3o Obras Sociais Irm\u00e3 Dulce and Oswaldo Cruz Foundation, Bahia (E.D.M.), and Centro Paulista de Investiga\u00e7\u00e3o Clinica, S\u00e3o Paulo (C.Z.) - both in Brazil; Global Product Development, Pfizer, Peapack, NJ (S.R.); Cincinnati Children's Hospital, Cincinnati (R.W.F.); Johns Hopkins Bloomberg School of Public Health, Baltimore (L.L.H.); BioNTech, Mainz (\u00d6T., U.\u015e.), and Medizentrum Essen Borbeck, Essen (A.S.) - both in Germany; Tiervlei Trial Centre, Karl Bremer Hospital, Cape Town, South Africa (H.N.); Hacettepe University, Ankara, Turkey (S.\u00dc.); and Worldwide Safety, Safety Surveillance and Risk Management, Pfizer, Groton, CT (D.B.T.)."
+         }
+        ]
+       }
+      },
+      {
+       "fullName": "T\u00fcreci \u00d6",
+       "firstName": "\u00d6zlem",
+       "lastName": "T\u00fcreci",
+       "initials": "\u00d6",
+       "authorAffiliationDetailsList": {
+        "authorAffiliation": [
+         {
+          "affiliation": "From Fundacion INFANT (F.P.P.) and iTrials-Hospital Militar Central (G.P.M.), Buenos Aires; State University of New York, Upstate Medical University, Syracuse (S.J.T.), and Vaccine Research and Development, Pfizer, Pearl River (J.A., A.G., K.A.S., K.K., W.V.K., D.C., P.R.D., K.U.J., W.C.G.) - both in New York; Vaccine Research and Development, Pfizer, Hurley, United Kingdom (N.K., S.L., R.B.); Vaccine Research and Development (J.L.P., P.L.) and Worldwide Safety, Safety Surveillance and Risk Management (S.M.), Pfizer, Collegeville, PA; Associa\u00e7\u00e3o Obras Sociais Irm\u00e3 Dulce and Oswaldo Cruz Foundation, Bahia (E.D.M.), and Centro Paulista de Investiga\u00e7\u00e3o Clinica, S\u00e3o Paulo (C.Z.) - both in Brazil; Global Product Development, Pfizer, Peapack, NJ (S.R.); Cincinnati Children's Hospital, Cincinnati (R.W.F.); Johns Hopkins Bloomberg School of Public Health, Baltimore (L.L.H.); BioNTech, Mainz (\u00d6T., U.\u015e.), and Medizentrum Essen Borbeck, Essen (A.S.) - both in Germany; Tiervlei Trial Centre, Karl Bremer Hospital, Cape Town, South Africa (H.N.); Hacettepe University, Ankara, Turkey (S.\u00dc.); and Worldwide Safety, Safety Surveillance and Risk Management, Pfizer, Groton, CT (D.B.T.)."
+         }
+        ]
+       }
+      },
+      {
+       "fullName": "Nell H",
+       "firstName": "Haylene",
+       "lastName": "Nell",
+       "initials": "H",
+       "authorAffiliationDetailsList": {
+        "authorAffiliation": [
+         {
+          "affiliation": "From Fundacion INFANT (F.P.P.) and iTrials-Hospital Militar Central (G.P.M.), Buenos Aires; State University of New York, Upstate Medical University, Syracuse (S.J.T.), and Vaccine Research and Development, Pfizer, Pearl River (J.A., A.G., K.A.S., K.K., W.V.K., D.C., P.R.D., K.U.J., W.C.G.) - both in New York; Vaccine Research and Development, Pfizer, Hurley, United Kingdom (N.K., S.L., R.B.); Vaccine Research and Development (J.L.P., P.L.) and Worldwide Safety, Safety Surveillance and Risk Management (S.M.), Pfizer, Collegeville, PA; Associa\u00e7\u00e3o Obras Sociais Irm\u00e3 Dulce and Oswaldo Cruz Foundation, Bahia (E.D.M.), and Centro Paulista de Investiga\u00e7\u00e3o Clinica, S\u00e3o Paulo (C.Z.) - both in Brazil; Global Product Development, Pfizer, Peapack, NJ (S.R.); Cincinnati Children's Hospital, Cincinnati (R.W.F.); Johns Hopkins Bloomberg School of Public Health, Baltimore (L.L.H.); BioNTech, Mainz (\u00d6T., U.\u015e.), and Medizentrum Essen Borbeck, Essen (A.S.) - both in Germany; Tiervlei Trial Centre, Karl Bremer Hospital, Cape Town, South Africa (H.N.); Hacettepe University, Ankara, Turkey (S.\u00dc.); and Worldwide Safety, Safety Surveillance and Risk Management, Pfizer, Groton, CT (D.B.T.)."
+         }
+        ]
+       }
+      },
+      {
+       "fullName": "Schaefer A",
+       "firstName": "Axel",
+       "lastName": "Schaefer",
+       "initials": "A",
+       "authorAffiliationDetailsList": {
+        "authorAffiliation": [
+         {
+          "affiliation": "From Fundacion INFANT (F.P.P.) and iTrials-Hospital Militar Central (G.P.M.), Buenos Aires; State University of New York, Upstate Medical University, Syracuse (S.J.T.), and Vaccine Research and Development, Pfizer, Pearl River (J.A., A.G., K.A.S., K.K., W.V.K., D.C., P.R.D., K.U.J., W.C.G.) - both in New York; Vaccine Research and Development, Pfizer, Hurley, United Kingdom (N.K., S.L., R.B.); Vaccine Research and Development (J.L.P., P.L.) and Worldwide Safety, Safety Surveillance and Risk Management (S.M.), Pfizer, Collegeville, PA; Associa\u00e7\u00e3o Obras Sociais Irm\u00e3 Dulce and Oswaldo Cruz Foundation, Bahia (E.D.M.), and Centro Paulista de Investiga\u00e7\u00e3o Clinica, S\u00e3o Paulo (C.Z.) - both in Brazil; Global Product Development, Pfizer, Peapack, NJ (S.R.); Cincinnati Children's Hospital, Cincinnati (R.W.F.); Johns Hopkins Bloomberg School of Public Health, Baltimore (L.L.H.); BioNTech, Mainz (\u00d6T., U.\u015e.), and Medizentrum Essen Borbeck, Essen (A.S.) - both in Germany; Tiervlei Trial Centre, Karl Bremer Hospital, Cape Town, South Africa (H.N.); Hacettepe University, Ankara, Turkey (S.\u00dc.); and Worldwide Safety, Safety Surveillance and Risk Management, Pfizer, Groton, CT (D.B.T.)."
+         }
+        ]
+       }
+      },
+      {
+       "fullName": "\u00dcnal S",
+       "firstName": "Serhat",
+       "lastName": "\u00dcnal",
+       "initials": "S",
+       "authorAffiliationDetailsList": {
+        "authorAffiliation": [
+         {
+          "affiliation": "From Fundacion INFANT (F.P.P.) and iTrials-Hospital Militar Central (G.P.M.), Buenos Aires; State University of New York, Upstate Medical University, Syracuse (S.J.T.), and Vaccine Research and Development, Pfizer, Pearl River (J.A., A.G., K.A.S., K.K., W.V.K., D.C., P.R.D., K.U.J., W.C.G.) - both in New York; Vaccine Research and Development, Pfizer, Hurley, United Kingdom (N.K., S.L., R.B.); Vaccine Research and Development (J.L.P., P.L.) and Worldwide Safety, Safety Surveillance and Risk Management (S.M.), Pfizer, Collegeville, PA; Associa\u00e7\u00e3o Obras Sociais Irm\u00e3 Dulce and Oswaldo Cruz Foundation, Bahia (E.D.M.), and Centro Paulista de Investiga\u00e7\u00e3o Clinica, S\u00e3o Paulo (C.Z.) - both in Brazil; Global Product Development, Pfizer, Peapack, NJ (S.R.); Cincinnati Children's Hospital, Cincinnati (R.W.F.); Johns Hopkins Bloomberg School of Public Health, Baltimore (L.L.H.); BioNTech, Mainz (\u00d6T., U.\u015e.), and Medizentrum Essen Borbeck, Essen (A.S.) - both in Germany; Tiervlei Trial Centre, Karl Bremer Hospital, Cape Town, South Africa (H.N.); Hacettepe University, Ankara, Turkey (S.\u00dc.); and Worldwide Safety, Safety Surveillance and Risk Management, Pfizer, Groton, CT (D.B.T.)."
+         }
+        ]
+       }
+      },
+      {
+       "fullName": "Tresnan DB",
+       "firstName": "Dina B",
+       "lastName": "Tresnan",
+       "initials": "DB",
+       "authorAffiliationDetailsList": {
+        "authorAffiliation": [
+         {
+          "affiliation": "From Fundacion INFANT (F.P.P.) and iTrials-Hospital Militar Central (G.P.M.), Buenos Aires; State University of New York, Upstate Medical University, Syracuse (S.J.T.), and Vaccine Research and Development, Pfizer, Pearl River (J.A., A.G., K.A.S., K.K., W.V.K., D.C., P.R.D., K.U.J., W.C.G.) - both in New York; Vaccine Research and Development, Pfizer, Hurley, United Kingdom (N.K., S.L., R.B.); Vaccine Research and Development (J.L.P., P.L.) and Worldwide Safety, Safety Surveillance and Risk Management (S.M.), Pfizer, Collegeville, PA; Associa\u00e7\u00e3o Obras Sociais Irm\u00e3 Dulce and Oswaldo Cruz Foundation, Bahia (E.D.M.), and Centro Paulista de Investiga\u00e7\u00e3o Clinica, S\u00e3o Paulo (C.Z.) - both in Brazil; Global Product Development, Pfizer, Peapack, NJ (S.R.); Cincinnati Children's Hospital, Cincinnati (R.W.F.); Johns Hopkins Bloomberg School of Public Health, Baltimore (L.L.H.); BioNTech, Mainz (\u00d6T., U.\u015e.), and Medizentrum Essen Borbeck, Essen (A.S.) - both in Germany; Tiervlei Trial Centre, Karl Bremer Hospital, Cape Town, South Africa (H.N.); Hacettepe University, Ankara, Turkey (S.\u00dc.); and Worldwide Safety, Safety Surveillance and Risk Management, Pfizer, Groton, CT (D.B.T.)."
+         }
+        ]
+       }
+      },
+      {
+       "fullName": "Mather S",
+       "firstName": "Susan",
+       "lastName": "Mather",
+       "initials": "S",
+       "authorAffiliationDetailsList": {
+        "authorAffiliation": [
+         {
+          "affiliation": "From Fundacion INFANT (F.P.P.) and iTrials-Hospital Militar Central (G.P.M.), Buenos Aires; State University of New York, Upstate Medical University, Syracuse (S.J.T.), and Vaccine Research and Development, Pfizer, Pearl River (J.A., A.G., K.A.S., K.K., W.V.K., D.C., P.R.D., K.U.J., W.C.G.) - both in New York; Vaccine Research and Development, Pfizer, Hurley, United Kingdom (N.K., S.L., R.B.); Vaccine Research and Development (J.L.P., P.L.) and Worldwide Safety, Safety Surveillance and Risk Management (S.M.), Pfizer, Collegeville, PA; Associa\u00e7\u00e3o Obras Sociais Irm\u00e3 Dulce and Oswaldo Cruz Foundation, Bahia (E.D.M.), and Centro Paulista de Investiga\u00e7\u00e3o Clinica, S\u00e3o Paulo (C.Z.) - both in Brazil; Global Product Development, Pfizer, Peapack, NJ (S.R.); Cincinnati Children's Hospital, Cincinnati (R.W.F.); Johns Hopkins Bloomberg School of Public Health, Baltimore (L.L.H.); BioNTech, Mainz (\u00d6T., U.\u015e.), and Medizentrum Essen Borbeck, Essen (A.S.) - both in Germany; Tiervlei Trial Centre, Karl Bremer Hospital, Cape Town, South Africa (H.N.); Hacettepe University, Ankara, Turkey (S.\u00dc.); and Worldwide Safety, Safety Surveillance and Risk Management, Pfizer, Groton, CT (D.B.T.)."
+         }
+        ]
+       }
+      },
+      {
+       "fullName": "Dormitzer PR",
+       "firstName": "Philip R",
+       "lastName": "Dormitzer",
+       "initials": "PR",
+       "authorAffiliationDetailsList": {
+        "authorAffiliation": [
+         {
+          "affiliation": "From Fundacion INFANT (F.P.P.) and iTrials-Hospital Militar Central (G.P.M.), Buenos Aires; State University of New York, Upstate Medical University, Syracuse (S.J.T.), and Vaccine Research and Development, Pfizer, Pearl River (J.A., A.G., K.A.S., K.K., W.V.K., D.C., P.R.D., K.U.J., W.C.G.) - both in New York; Vaccine Research and Development, Pfizer, Hurley, United Kingdom (N.K., S.L., R.B.); Vaccine Research and Development (J.L.P., P.L.) and Worldwide Safety, Safety Surveillance and Risk Management (S.M.), Pfizer, Collegeville, PA; Associa\u00e7\u00e3o Obras Sociais Irm\u00e3 Dulce and Oswaldo Cruz Foundation, Bahia (E.D.M.), and Centro Paulista de Investiga\u00e7\u00e3o Clinica, S\u00e3o Paulo (C.Z.) - both in Brazil; Global Product Development, Pfizer, Peapack, NJ (S.R.); Cincinnati Children's Hospital, Cincinnati (R.W.F.); Johns Hopkins Bloomberg School of Public Health, Baltimore (L.L.H.); BioNTech, Mainz (\u00d6T., U.\u015e.), and Medizentrum Essen Borbeck, Essen (A.S.) - both in Germany; Tiervlei Trial Centre, Karl Bremer Hospital, Cape Town, South Africa (H.N.); Hacettepe University, Ankara, Turkey (S.\u00dc.); and Worldwide Safety, Safety Surveillance and Risk Management, Pfizer, Groton, CT (D.B.T.)."
+         }
+        ]
+       }
+      },
+      {
+       "fullName": "\u015eahin U",
+       "firstName": "U\u011fur",
+       "lastName": "\u015eahin",
+       "initials": "U",
+       "authorAffiliationDetailsList": {
+        "authorAffiliation": [
+         {
+          "affiliation": "From Fundacion INFANT (F.P.P.) and iTrials-Hospital Militar Central (G.P.M.), Buenos Aires; State University of New York, Upstate Medical University, Syracuse (S.J.T.), and Vaccine Research and Development, Pfizer, Pearl River (J.A., A.G., K.A.S., K.K., W.V.K., D.C., P.R.D., K.U.J., W.C.G.) - both in New York; Vaccine Research and Development, Pfizer, Hurley, United Kingdom (N.K., S.L., R.B.); Vaccine Research and Development (J.L.P., P.L.) and Worldwide Safety, Safety Surveillance and Risk Management (S.M.), Pfizer, Collegeville, PA; Associa\u00e7\u00e3o Obras Sociais Irm\u00e3 Dulce and Oswaldo Cruz Foundation, Bahia (E.D.M.), and Centro Paulista de Investiga\u00e7\u00e3o Clinica, S\u00e3o Paulo (C.Z.) - both in Brazil; Global Product Development, Pfizer, Peapack, NJ (S.R.); Cincinnati Children's Hospital, Cincinnati (R.W.F.); Johns Hopkins Bloomberg School of Public Health, Baltimore (L.L.H.); BioNTech, Mainz (\u00d6T., U.\u015e.), and Medizentrum Essen Borbeck, Essen (A.S.) - both in Germany; Tiervlei Trial Centre, Karl Bremer Hospital, Cape Town, South Africa (H.N.); Hacettepe University, Ankara, Turkey (S.\u00dc.); and Worldwide Safety, Safety Surveillance and Risk Management, Pfizer, Groton, CT (D.B.T.)."
+         }
+        ]
+       }
+      },
+      {
+       "fullName": "Jansen KU",
+       "firstName": "Kathrin U",
+       "lastName": "Jansen",
+       "initials": "KU",
+       "authorAffiliationDetailsList": {
+        "authorAffiliation": [
+         {
+          "affiliation": "From Fundacion INFANT (F.P.P.) and iTrials-Hospital Militar Central (G.P.M.), Buenos Aires; State University of New York, Upstate Medical University, Syracuse (S.J.T.), and Vaccine Research and Development, Pfizer, Pearl River (J.A., A.G., K.A.S., K.K., W.V.K., D.C., P.R.D., K.U.J., W.C.G.) - both in New York; Vaccine Research and Development, Pfizer, Hurley, United Kingdom (N.K., S.L., R.B.); Vaccine Research and Development (J.L.P., P.L.) and Worldwide Safety, Safety Surveillance and Risk Management (S.M.), Pfizer, Collegeville, PA; Associa\u00e7\u00e3o Obras Sociais Irm\u00e3 Dulce and Oswaldo Cruz Foundation, Bahia (E.D.M.), and Centro Paulista de Investiga\u00e7\u00e3o Clinica, S\u00e3o Paulo (C.Z.) - both in Brazil; Global Product Development, Pfizer, Peapack, NJ (S.R.); Cincinnati Children's Hospital, Cincinnati (R.W.F.); Johns Hopkins Bloomberg School of Public Health, Baltimore (L.L.H.); BioNTech, Mainz (\u00d6T., U.\u015e.), and Medizentrum Essen Borbeck, Essen (A.S.) - both in Germany; Tiervlei Trial Centre, Karl Bremer Hospital, Cape Town, South Africa (H.N.); Hacettepe University, Ankara, Turkey (S.\u00dc.); and Worldwide Safety, Safety Surveillance and Risk Management, Pfizer, Groton, CT (D.B.T.)."
+         }
+        ]
+       }
+      },
+      {
+       "fullName": "Gruber WC",
+       "firstName": "William C",
+       "lastName": "Gruber",
+       "initials": "WC",
+       "authorAffiliationDetailsList": {
+        "authorAffiliation": [
+         {
+          "affiliation": "From Fundacion INFANT (F.P.P.) and iTrials-Hospital Militar Central (G.P.M.), Buenos Aires; State University of New York, Upstate Medical University, Syracuse (S.J.T.), and Vaccine Research and Development, Pfizer, Pearl River (J.A., A.G., K.A.S., K.K., W.V.K., D.C., P.R.D., K.U.J., W.C.G.) - both in New York; Vaccine Research and Development, Pfizer, Hurley, United Kingdom (N.K., S.L., R.B.); Vaccine Research and Development (J.L.P., P.L.) and Worldwide Safety, Safety Surveillance and Risk Management (S.M.), Pfizer, Collegeville, PA; Associa\u00e7\u00e3o Obras Sociais Irm\u00e3 Dulce and Oswaldo Cruz Foundation, Bahia (E.D.M.), and Centro Paulista de Investiga\u00e7\u00e3o Clinica, S\u00e3o Paulo (C.Z.) - both in Brazil; Global Product Development, Pfizer, Peapack, NJ (S.R.); Cincinnati Children's Hospital, Cincinnati (R.W.F.); Johns Hopkins Bloomberg School of Public Health, Baltimore (L.L.H.); BioNTech, Mainz (\u00d6T., U.\u015e.), and Medizentrum Essen Borbeck, Essen (A.S.) - both in Germany; Tiervlei Trial Centre, Karl Bremer Hospital, Cape Town, South Africa (H.N.); Hacettepe University, Ankara, Turkey (S.\u00dc.); and Worldwide Safety, Safety Surveillance and Risk Management, Pfizer, Groton, CT (D.B.T.)."
+         }
+        ]
+       }
+      },
+      {
+       "collectiveName": "C4591001 Clinical Trial Group"
+      }
+     ]
+    },
+    "investigatorList": {
+     "investigator": [
+      {
+       "fullName": "Aberg J",
+       "firstName": "Judith",
+       "lastName": "Aberg",
+       "initials": "J"
+      },
+      {
+       "fullName": "Addo M",
+       "firstName": "Marylyn",
+       "lastName": "Addo",
+       "initials": "M",
+       "authorId": {
+        "type": "ORCID",
+        "value": "0000-0003-2836-9224"
+       }
+      },
+      {
+       "fullName": "Akhan S",
+       "firstName": "S\u0131la",
+       "lastName": "Akhan",
+       "initials": "S"
+      },
+      {
+       "fullName": "Albertson T",
+       "firstName": "Timothy",
+       "lastName": "Albertson",
+       "initials": "T"
+      },
+      {
+       "fullName": "Al-Ibrahim M",
+       "firstName": "Mohamed",
+       "lastName": "Al-Ibrahim",
+       "initials": "M"
+      },
+      {
+       "fullName": "Alt\u0131n S",
+       "firstName": "Sedat",
+       "lastName": "Alt\u0131n",
+       "initials": "S"
+      },
+      {
+       "fullName": "Anderson C",
+       "firstName": "Corey",
+       "lastName": "Anderson",
+       "initials": "C"
+      },
+      {
+       "fullName": "Andrews C",
+       "firstName": "Charles",
+       "lastName": "Andrews",
+       "initials": "C"
+      },
+      {
+       "fullName": "Arora S",
+       "firstName": "Samir",
+       "lastName": "Arora",
+       "initials": "S"
+      },
+      {
+       "fullName": "Balik I",
+       "firstName": "Ismail",
+       "lastName": "Balik",
+       "initials": "I"
+      },
+      {
+       "fullName": "Barnett E",
+       "firstName": "Elizabeth",
+       "lastName": "Barnett",
+       "initials": "E"
+      },
+      {
+       "fullName": "Bauer G",
+       "firstName": "George",
+       "lastName": "Bauer",
+       "initials": "G"
+      },
+      {
+       "fullName": "Baumann-Noss S",
+       "firstName": "Sybille",
+       "lastName": "Baumann-Noss",
+       "initials": "S"
+      },
+      {
+       "fullName": "Berhe M",
+       "firstName": "Mezgebe",
+       "lastName": "Berhe",
+       "initials": "M"
+      },
+      {
+       "fullName": "Bradley P",
+       "firstName": "Paul",
+       "lastName": "Bradley",
+       "initials": "P"
+      },
+      {
+       "fullName": "Brandon D",
+       "firstName": "Donald",
+       "lastName": "Brandon",
+       "initials": "D"
+      },
+      {
+       "fullName": "Brune D",
+       "firstName": "Daniel",
+       "lastName": "Brune",
+       "initials": "D"
+      },
+      {
+       "fullName": "Burgher A",
+       "firstName": "Abram",
+       "lastName": "Burgher",
+       "initials": "A"
+      },
+      {
+       "fullName": "Butcher B",
+       "firstName": "Bain",
+       "lastName": "Butcher",
+       "initials": "B"
+      },
+      {
+       "fullName": "Butuk D",
+       "firstName": "David",
+       "lastName": "Butuk",
+       "initials": "D"
+      },
+      {
+       "fullName": "Cannon K",
+       "firstName": "Kevin",
+       "lastName": "Cannon",
+       "initials": "K"
+      },
+      {
+       "fullName": "Cardona J",
+       "firstName": "Jose",
+       "lastName": "Cardona",
+       "initials": "J"
+      },
+      {
+       "fullName": "Cavelli R",
+       "firstName": "Rachael",
+       "lastName": "Cavelli",
+       "initials": "R"
+      },
+      {
+       "fullName": "Chalhoub F",
+       "firstName": "Fadi",
+       "lastName": "Chalhoub",
+       "initials": "F"
+      },
+      {
+       "fullName": "Christensen S",
+       "firstName": "Shane",
+       "lastName": "Christensen",
+       "initials": "S"
+      },
+      {
+       "fullName": "Christensen T",
+       "firstName": "Tom",
+       "lastName": "Christensen",
+       "initials": "T"
+      },
+      {
+       "fullName": "Chu L",
+       "firstName": "Laurence",
+       "lastName": "Chu",
+       "initials": "L"
+      },
+      {
+       "fullName": "Cox S",
+       "firstName": "Steven",
+       "lastName": "Cox",
+       "initials": "S"
+      },
+      {
+       "fullName": "Crook G",
+       "firstName": "Gretchen",
+       "lastName": "Crook",
+       "initials": "G"
+      },
+      {
+       "fullName": "Davis M",
+       "firstName": "Matthew",
+       "lastName": "Davis",
+       "initials": "M"
+      },
+      {
+       "fullName": "Davit R",
+       "firstName": "Rajesh",
+       "lastName": "Davit",
+       "initials": "R"
+      },
+      {
+       "fullName": "Denham D",
+       "firstName": "Douglas",
+       "lastName": "Denham",
+       "initials": "D"
+      },
+      {
+       "fullName": "Dever M",
+       "firstName": "Michael",
+       "lastName": "Dever",
+       "initials": "M"
+      },
+      {
+       "fullName": "Donskey C",
+       "firstName": "Curtis",
+       "lastName": "Donskey",
+       "initials": "C"
+      },
+      {
+       "fullName": "Doust M",
+       "firstName": "Matthew",
+       "lastName": "Doust",
+       "initials": "M"
+      },
+      {
+       "fullName": "Dunn M",
+       "firstName": "Michael",
+       "lastName": "Dunn",
+       "initials": "M"
+      },
+      {
+       "fullName": "Earl J",
+       "firstName": "John",
+       "lastName": "Earl",
+       "initials": "J"
+      },
+      {
+       "fullName": "Eder F",
+       "firstName": "Frank",
+       "lastName": "Eder",
+       "initials": "F"
+      },
+      {
+       "fullName": "Eich A",
+       "firstName": "Andreas",
+       "lastName": "Eich",
+       "initials": "A"
+      },
+      {
+       "fullName": "Ensz D",
+       "firstName": "David",
+       "lastName": "Ensz",
+       "initials": "D"
+      },
+      {
+       "fullName": "Essink B",
+       "firstName": "Brandon",
+       "lastName": "Essink",
+       "initials": "B"
+      },
+      {
+       "fullName": "Falcone R",
+       "firstName": "Robert",
+       "lastName": "Falcone",
+       "initials": "R"
+      },
+      {
+       "fullName": "Falsey A",
+       "firstName": "Ann",
+       "lastName": "Falsey",
+       "initials": "A"
+      },
+      {
+       "fullName": "Farrington C",
+       "firstName": "Cecil",
+       "lastName": "Farrington",
+       "initials": "C"
+      },
+      {
+       "fullName": "Finberg R",
+       "firstName": "Robert",
+       "lastName": "Finberg",
+       "initials": "R"
+      },
+      {
+       "fullName": "Finn D",
+       "firstName": "Daniel",
+       "lastName": "Finn",
+       "initials": "D"
+      },
+      {
+       "fullName": "Fitz-Patrick D",
+       "firstName": "David",
+       "lastName": "Fitz-Patrick",
+       "initials": "D"
+      },
+      {
+       "fullName": "Fortmann S",
+       "firstName": "Stephen",
+       "lastName": "Fortmann",
+       "initials": "S"
+      },
+      {
+       "fullName": "Fouche L",
+       "firstName": "Leon",
+       "lastName": "Fouche",
+       "initials": "L"
+      },
+      {
+       "fullName": "Fragoso V",
+       "firstName": "Veronica",
+       "lastName": "Fragoso",
+       "initials": "V"
+      },
+      {
+       "fullName": "Frenck R",
+       "firstName": "Robert",
+       "lastName": "Frenck",
+       "initials": "R"
+      },
+      {
+       "fullName": "Fried D",
+       "firstName": "David",
+       "lastName": "Fried",
+       "initials": "D"
+      },
+      {
+       "fullName": "Fuller G",
+       "firstName": "Gregory",
+       "lastName": "Fuller",
+       "initials": "G"
+      },
+      {
+       "fullName": "Fussell S",
+       "firstName": "Suzanne",
+       "lastName": "Fussell",
+       "initials": "S"
+      },
+      {
+       "fullName": "Garcia-Diaz J",
+       "firstName": "Julia",
+       "lastName": "Garcia-Diaz",
+       "initials": "J"
+      },
+      {
+       "fullName": "Gentry A",
+       "firstName": "Andrew",
+       "lastName": "Gentry",
+       "initials": "A"
+      },
+      {
+       "fullName": "Glover R",
+       "firstName": "Richard",
+       "lastName": "Glover",
+       "initials": "R"
+      },
+      {
+       "fullName": "Greenbaum C",
+       "firstName": "Carla",
+       "lastName": "Greenbaum",
+       "initials": "C"
+      },
+      {
+       "fullName": "Grubb S",
+       "firstName": "Stephen",
+       "lastName": "Grubb",
+       "initials": "S"
+      },
+      {
+       "fullName": "Hammitt L",
+       "firstName": "Laura",
+       "lastName": "Hammitt",
+       "initials": "L"
+      },
+      {
+       "fullName": "Harper C",
+       "firstName": "Charles",
+       "lastName": "Harper",
+       "initials": "C"
+      },
+      {
+       "fullName": "Harper W",
+       "firstName": "Wayne",
+       "lastName": "Harper",
+       "initials": "W"
+      },
+      {
+       "fullName": "Hartman A",
+       "firstName": "Aaron",
+       "lastName": "Hartman",
+       "initials": "A"
+      },
+      {
+       "fullName": "Heller R",
+       "firstName": "Robert",
+       "lastName": "Heller",
+       "initials": "R"
+      },
+      {
+       "fullName": "Hendrix E",
+       "firstName": "Ernest",
+       "lastName": "Hendrix",
+       "initials": "E"
+      },
+      {
+       "fullName": "Herrington D",
+       "firstName": "Darrell",
+       "lastName": "Herrington",
+       "initials": "D"
+      },
+      {
+       "fullName": "Jennings T",
+       "firstName": "Timothy",
+       "lastName": "Jennings",
+       "initials": "T"
+      },
+      {
+       "fullName": "Karabay O",
+       "firstName": "O\u011fuz",
+       "lastName": "Karabay",
+       "initials": "O",
+       "authorId": {
+        "type": "ORCID",
+        "value": "0000-0003-1514-1685"
+       }
+      },
+      {
+       "fullName": "Kaster S",
+       "firstName": "Steven",
+       "lastName": "Kaster",
+       "initials": "S"
+      },
+      {
+       "fullName": "Katzman S",
+       "firstName": "Steven",
+       "lastName": "Katzman",
+       "initials": "S"
+      },
+      {
+       "fullName": "Kingsley J",
+       "firstName": "Jeffrey",
+       "lastName": "Kingsley",
+       "initials": "J"
+      },
+      {
+       "fullName": "Klein N",
+       "firstName": "Nicola",
+       "lastName": "Klein",
+       "initials": "N"
+      },
+      {
+       "fullName": "Klein T",
+       "firstName": "Tracy",
+       "lastName": "Klein",
+       "initials": "T"
+      },
+      {
+       "fullName": "Koch M",
+       "firstName": "Mark",
+       "lastName": "Koch",
+       "initials": "M"
+      },
+      {
+       "fullName": "K\u00f6ksal I",
+       "firstName": "Iftahar",
+       "lastName": "K\u00f6ksal",
+       "initials": "I"
+      },
+      {
+       "fullName": "Koren M",
+       "firstName": "Michael",
+       "lastName": "Koren",
+       "initials": "M"
+      },
+      {
+       "fullName": "Kutner M",
+       "firstName": "Mark",
+       "lastName": "Kutner",
+       "initials": "M"
+      },
+      {
+       "fullName": "Lee M",
+       "firstName": "Marcus",
+       "lastName": "Lee",
+       "initials": "M"
+      },
+      {
+       "fullName": "Leibowitz M",
+       "firstName": "Mark",
+       "lastName": "Leibowitz",
+       "initials": "M"
+      },
+      {
+       "fullName": "Levin M",
+       "firstName": "Michael",
+       "lastName": "Levin",
+       "initials": "M"
+      },
+      {
+       "fullName": "Libster R",
+       "firstName": "Romina",
+       "lastName": "Libster",
+       "initials": "R"
+      },
+      {
+       "fullName": "Lillestol M",
+       "firstName": "Michael",
+       "lastName": "Lillestol",
+       "initials": "M"
+      },
+      {
+       "fullName": "Lucasti C",
+       "firstName": "Christopher",
+       "lastName": "Lucasti",
+       "initials": "C"
+      },
+      {
+       "fullName": "Luttermann M",
+       "firstName": "Matthias",
+       "lastName": "Luttermann",
+       "initials": "M"
+      },
+      {
+       "fullName": "Manning MBE",
+       "firstName": "Mary Beth Earl",
+       "lastName": "Manning",
+       "initials": "MBE"
+      },
+      {
+       "fullName": "Martin M",
+       "firstName": "Martin",
+       "lastName": "Martin",
+       "initials": "M"
+      },
+      {
+       "fullName": "Matherne P",
+       "firstName": "Paul",
+       "lastName": "Matherne",
+       "initials": "P"
+      },
+      {
+       "fullName": "McMurray J",
+       "firstName": "James",
+       "lastName": "McMurray",
+       "initials": "J"
+      },
+      {
+       "fullName": "Mert A",
+       "firstName": "Ali",
+       "lastName": "Mert",
+       "initials": "A"
+      },
+      {
+       "fullName": "Middleton R",
+       "firstName": "Randle",
+       "lastName": "Middleton",
+       "initials": "R"
+      },
+      {
+       "fullName": "Mitha E",
+       "firstName": "Essack",
+       "lastName": "Mitha",
+       "initials": "E"
+      },
+      {
+       "fullName": "Morawski E",
+       "firstName": "Emily",
+       "lastName": "Morawski",
+       "initials": "E"
+      },
+      {
+       "fullName": "Moreira E",
+       "firstName": "Edson",
+       "lastName": "Moreira",
+       "initials": "E"
+      },
+      {
+       "fullName": "Mulligan M",
+       "firstName": "Mark",
+       "lastName": "Mulligan",
+       "initials": "M"
+      },
+      {
+       "fullName": "Murray A",
+       "firstName": "Alexander",
+       "lastName": "Murray",
+       "initials": "A"
+      },
+      {
+       "fullName": "Mussaji M",
+       "firstName": "Murtaza",
+       "lastName": "Mussaji",
+       "initials": "M"
+      },
+      {
+       "fullName": "Musungaie D",
+       "firstName": "Dany",
+       "lastName": "Musungaie",
+       "initials": "D"
+      },
+      {
+       "fullName": "Nell H",
+       "firstName": "Haylene",
+       "lastName": "Nell",
+       "initials": "H"
+      },
+      {
+       "fullName": "Odekirk L",
+       "firstName": "Larry",
+       "lastName": "Odekirk",
+       "initials": "L"
+      },
+      {
+       "fullName": "Ogbuagu O",
+       "firstName": "Onyema",
+       "lastName": "Ogbuagu",
+       "initials": "O"
+      },
+      {
+       "fullName": "Paolino K",
+       "firstName": "Kristopher",
+       "lastName": "Paolino",
+       "initials": "K"
+      },
+      {
+       "fullName": "Patel S",
+       "firstName": "Suchet",
+       "lastName": "Patel",
+       "initials": "S"
+      },
+      {
+       "fullName": "Peterson J",
+       "firstName": "James",
+       "lastName": "Peterson",
+       "initials": "J"
+      },
+      {
+       "fullName": "Pickrell P",
+       "firstName": "Paul",
+       "lastName": "Pickrell",
+       "initials": "P"
+      },
+      {
+       "fullName": "Polack F",
+       "firstName": "Fernando",
+       "lastName": "Polack",
+       "initials": "F"
+      },
+      {
+       "fullName": "Poretz D",
+       "firstName": "Donald",
+       "lastName": "Poretz",
+       "initials": "D"
+      },
+      {
+       "fullName": "Raad G",
+       "firstName": "George",
+       "lastName": "Raad",
+       "initials": "G"
+      },
+      {
+       "fullName": "Randall W",
+       "firstName": "William",
+       "lastName": "Randall",
+       "initials": "W"
+      },
+      {
+       "fullName": "Rankin B",
+       "firstName": "Bruce",
+       "lastName": "Rankin",
+       "initials": "B"
+      },
+      {
+       "fullName": "Reynolds S",
+       "firstName": "Steven",
+       "lastName": "Reynolds",
+       "initials": "S"
+      },
+      {
+       "fullName": "Riesenberg R",
+       "firstName": "Robert",
+       "lastName": "Riesenberg",
+       "initials": "R"
+      },
+      {
+       "fullName": "Rodriguez H",
+       "firstName": "Hector",
+       "lastName": "Rodriguez",
+       "initials": "H"
+      },
+      {
+       "fullName": "Rosen J",
+       "firstName": "Jeffrey",
+       "lastName": "Rosen",
+       "initials": "J"
+      },
+      {
+       "fullName": "Rubino J",
+       "firstName": "John",
+       "lastName": "Rubino",
+       "initials": "J"
+      },
+      {
+       "fullName": "Rupp R",
+       "firstName": "Richard",
+       "lastName": "Rupp",
+       "initials": "R"
+      },
+      {
+       "fullName": "Saiger S",
+       "firstName": "Salma",
+       "lastName": "Saiger",
+       "initials": "S"
+      },
+      {
+       "fullName": "Salata R",
+       "firstName": "Robert",
+       "lastName": "Salata",
+       "initials": "R"
+      },
+      {
+       "fullName": "Saleh J",
+       "firstName": "Jamshid",
+       "lastName": "Saleh",
+       "initials": "J"
+      },
+      {
+       "fullName": "Schaefer A",
+       "firstName": "Axel",
+       "lastName": "Schaefer",
+       "initials": "A"
+      },
+      {
+       "fullName": "Schear M",
+       "firstName": "Martin",
+       "lastName": "Schear",
+       "initials": "M"
+      },
+      {
+       "fullName": "Schultz A",
+       "firstName": "Armin",
+       "lastName": "Schultz",
+       "initials": "A"
+      },
+      {
+       "fullName": "Schwartz H",
+       "firstName": "Howard",
+       "lastName": "Schwartz",
+       "initials": "H"
+      },
+      {
+       "fullName": "Segall N",
+       "firstName": "Nathan",
+       "lastName": "Segall",
+       "initials": "N"
+      },
+      {
+       "fullName": "Seger W",
+       "firstName": "William",
+       "lastName": "Seger",
+       "initials": "W"
+      },
+      {
+       "fullName": "Senders S",
+       "firstName": "Shelly",
+       "lastName": "Senders",
+       "initials": "S"
+      },
+      {
+       "fullName": "Sharp S",
+       "firstName": "Stephan",
+       "lastName": "Sharp",
+       "initials": "S"
+      },
+      {
+       "fullName": "Shoffner S",
+       "firstName": "Sylvia",
+       "lastName": "Shoffner",
+       "initials": "S"
+      },
+      {
+       "fullName": "Simsek Yavuz S",
+       "firstName": "Serap",
+       "lastName": "Simsek Yavuz",
+       "initials": "S"
+      },
+      {
+       "fullName": "Sligh T",
+       "firstName": "Teresa",
+       "lastName": "Sligh",
+       "initials": "T"
+      },
+      {
+       "fullName": "Smith W",
+       "firstName": "William",
+       "lastName": "Smith",
+       "initials": "W"
+      },
+      {
+       "fullName": "Stacey H",
+       "firstName": "Helen",
+       "lastName": "Stacey",
+       "initials": "H"
+      },
+      {
+       "fullName": "Stephens M",
+       "firstName": "Michael",
+       "lastName": "Stephens",
+       "initials": "M"
+      },
+      {
+       "fullName": "Studdard H",
+       "firstName": "Harry",
+       "lastName": "Studdard",
+       "initials": "H"
+      },
+      {
+       "fullName": "Tabak F",
+       "firstName": "Fehmi",
+       "lastName": "Tabak",
+       "initials": "F"
+      },
+      {
+       "fullName": "Talaat K",
+       "firstName": "Kawsar",
+       "lastName": "Talaat",
+       "initials": "K"
+      },
+      {
+       "fullName": "Thomas S",
+       "firstName": "Stephen",
+       "lastName": "Thomas",
+       "initials": "S"
+      },
+      {
+       "fullName": "Towner W",
+       "firstName": "William",
+       "lastName": "Towner",
+       "initials": "W"
+      },
+      {
+       "fullName": "Tran V",
+       "firstName": "Van",
+       "lastName": "Tran",
+       "initials": "V"
+      },
+      {
+       "fullName": "\u00dcnal S",
+       "firstName": "Serhat",
+       "lastName": "\u00dcnal",
+       "initials": "S"
+      },
+      {
+       "fullName": "Usdan L",
+       "firstName": "Lisa",
+       "lastName": "Usdan",
+       "initials": "L"
+      },
+      {
+       "fullName": "Vanchiere J",
+       "firstName": "John",
+       "lastName": "Vanchiere",
+       "initials": "J"
+      },
+      {
+       "fullName": "Varano S",
+       "firstName": "Susann",
+       "lastName": "Varano",
+       "initials": "S"
+      },
+      {
+       "fullName": "Wadsworth ETL",
+       "firstName": "Edward Tyler L",
+       "lastName": "Wadsworth",
+       "initials": "ETL"
+      },
+      {
+       "fullName": "Walsh W",
+       "firstName": "Walsh",
+       "lastName": "Walsh",
+       "initials": "W"
+      },
+      {
+       "fullName": "Walter E",
+       "firstName": "Emmanuel",
+       "lastName": "Walter",
+       "initials": "E"
+      },
+      {
+       "fullName": "Wappner D",
+       "firstName": "Diego",
+       "lastName": "Wappner",
+       "initials": "D"
+      },
+      {
+       "fullName": "Whiles R",
+       "firstName": "Rick",
+       "lastName": "Whiles",
+       "initials": "R"
+      },
+      {
+       "fullName": "Williams H",
+       "firstName": "Hayes",
+       "lastName": "Williams",
+       "initials": "H"
+      },
+      {
+       "fullName": "Wilson J",
+       "firstName": "Jonathan",
+       "lastName": "Wilson",
+       "initials": "J"
+      },
+      {
+       "fullName": "Winkle P",
+       "firstName": "Peter",
+       "lastName": "Winkle",
+       "initials": "P"
+      },
+      {
+       "fullName": "Winokur P",
+       "firstName": "Patricia",
+       "lastName": "Winokur",
+       "initials": "P",
+       "authorId": {
+        "type": "ORCID",
+        "value": "0000-0002-4826-1790"
+       }
+      },
+      {
+       "fullName": "Wolf T",
+       "firstName": "Thomas",
+       "lastName": "Wolf",
+       "initials": "T"
+      },
+      {
+       "fullName": "Yozviak J",
+       "firstName": "Joseph",
+       "lastName": "Yozviak",
+       "initials": "J"
+      },
+      {
+       "fullName": "Zerbini C",
+       "firstName": "Cristiano",
+       "lastName": "Zerbini",
+       "initials": "C"
+      }
+     ]
+    },
+    "authorIdList": {
+     "authorId": [
+      {
+       "type": "ORCID",
+       "value": "0000-0001-6269-2354"
+      },
+      {
+       "type": "ORCID",
+       "value": "0000-0001-9876-0267"
+      },
+      {
+       "type": "ORCID",
+       "value": "0000-0002-0805-2193"
+      },
+      {
+       "type": "ORCID",
+       "value": "0000-0002-4826-1790"
+      },
+      {
+       "type": "ORCID",
+       "value": "0000-0002-7081-8348"
+      },
+      {
+       "type": "ORCID",
+       "value": "0000-0002-8368-7682"
+      },
+      {
+       "type": "ORCID",
+       "value": "0000-0003-1184-4711"
+      },
+      {
+       "type": "ORCID",
+       "value": "0000-0003-1514-1685"
+      },
+      {
+       "type": "ORCID",
+       "value": "0000-0003-2836-9224"
+      },
+      {
+       "type": "ORCID",
+       "value": "0009-0000-8481-2353"
+      }
+     ]
+    },
+    "dataLinksTagsList": {
+     "dataLinkstag": [
+      "altmetrics",
+      "supporting_data",
+      "recommended_reviews"
+     ]
+    },
+    "journalInfo": {
+     "issue": "27",
+     "volume": "383",
+     "journalIssueId": 3059948,
+     "dateOfPublication": "2020 Dec",
+     "monthOfPublication": 12,
+     "yearOfPublication": 2020,
+     "printPublicationDate": "2020-12-01",
+     "journal": {
+      "title": "The New England journal of medicine",
+      "medlineAbbreviation": "N Engl J Med",
+      "issn": "0028-4793",
+      "essn": "1533-4406",
+      "isoabbreviation": "N Engl J Med",
+      "nlmid": "0255562"
+     }
+    },
+    "pubYear": "2020",
+    "pageInfo": "2603-2615",
+    "abstractText": "<h4>Background</h4>Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection and the resulting coronavirus disease 2019 (Covid-19) have afflicted tens of millions of people in a worldwide pandemic. Safe and effective vaccines are needed urgently.<h4>Methods</h4>In an ongoing multinational, placebo-controlled, observer-blinded, pivotal efficacy trial, we randomly assigned persons 16 years of age or older in a 1:1 ratio to receive two doses, 21 days apart, of either placebo or the BNT162b2 vaccine candidate (30 \u03bcg per dose). BNT162b2 is a lipid nanoparticle-formulated, nucleoside-modified RNA vaccine that encodes a prefusion stabilized, membrane-anchored SARS-CoV-2 full-length spike protein. The primary end points were efficacy of the vaccine against laboratory-confirmed Covid-19 and safety.<h4>Results</h4>A total of 43,548 participants underwent randomization, of whom 43,448 received injections: 21,720 with BNT162b2 and 21,728 with placebo. There were 8 cases of Covid-19 with onset at least 7 days after the second dose among participants assigned to receive BNT162b2 and 162 cases among those assigned to placebo; BNT162b2 was 95% effective in preventing Covid-19 (95% credible interval, 90.3 to 97.6). Similar vaccine efficacy (generally 90 to 100%) was observed across subgroups defined by age, sex, race, ethnicity, baseline body-mass index, and the presence of coexisting conditions. Among 10 cases of severe Covid-19 with onset after the first dose, 9 occurred in placebo recipients and 1 in a BNT162b2 recipient. The safety profile of BNT162b2 was characterized by short-term, mild-to-moderate pain at the injection site, fatigue, and headache. The incidence of serious adverse events was low and was similar in the vaccine and placebo groups.<h4>Conclusions</h4>A two-dose regimen of BNT162b2 conferred 95% protection against Covid-19 in persons 16 years of age or older. Safety over a median of 2 months was similar to that of other viral vaccines. (Funded by BioNTech and Pfizer; ClinicalTrials.gov number, NCT04368728.).",
+    "affiliation": "From Fundacion INFANT (F.P.P.) and iTrials-Hospital Militar Central (G.P.M.), Buenos Aires; State University of New York, Upstate Medical University, Syracuse (S.J.T.), and Vaccine Research and Development, Pfizer, Pearl River (J.A., A.G., K.A.S., K.K., W.V.K., D.C., P.R.D., K.U.J., W.C.G.) - both in New York; Vaccine Research and Development, Pfizer, Hurley, United Kingdom (N.K., S.L., R.B.); Vaccine Research and Development (J.L.P., P.L.) and Worldwide Safety, Safety Surveillance and Risk Management (S.M.), Pfizer, Collegeville, PA; Associa\u00e7\u00e3o Obras Sociais Irm\u00e3 Dulce and Oswaldo Cruz Foundation, Bahia (E.D.M.), and Centro Paulista de Investiga\u00e7\u00e3o Clinica, S\u00e3o Paulo (C.Z.) - both in Brazil; Global Product Development, Pfizer, Peapack, NJ (S.R.); Cincinnati Children's Hospital, Cincinnati (R.W.F.); Johns Hopkins Bloomberg School of Public Health, Baltimore (L.L.H.); BioNTech, Mainz (\u00d6T., U.\u015e.), and Medizentrum Essen Borbeck, Essen (A.S.) - both in Germany; Tiervlei Trial Centre, Karl Bremer Hospital, Cape Town, South Africa (H.N.); Hacettepe University, Ankara, Turkey (S.\u00dc.); and Worldwide Safety, Safety Surveillance and Risk Management, Pfizer, Groton, CT (D.B.T.).",
+    "publicationStatus": "ppublish",
+    "language": "eng",
+    "pubModel": "Print-Electronic",
+    "pubTypeList": {
+     "pubType": [
+      "Clinical Trial, Phase III",
+      "Clinical Trial, Phase II",
+      "Research Support, Non-U.S. Gov't",
+      "research-article",
+      "Multicenter Study",
+      "Randomized Controlled Trial",
+      "Journal Article"
+     ]
+    },
+    "grantsList": {
+     "grant": [
+      {
+       "agency": "BioNTech and Pfizer",
+       "orderIn": 0
+      }
+     ]
+    },
+    "meshHeadingList": {
+     "meshHeading": [
+      {
+       "majorTopic_YN": "N",
+       "descriptorName": "Humans"
+      },
+      {
+       "majorTopic_YN": "N",
+       "descriptorName": "Headache",
+       "meshQualifierList": {
+        "meshQualifier": [
+         {
+          "abbreviation": "ET",
+          "qualifierName": "etiology",
+          "majorTopic_YN": "N"
+         }
+        ]
+       }
+      },
+      {
+       "majorTopic_YN": "N",
+       "descriptorName": "Fatigue",
+       "meshQualifierList": {
+        "meshQualifier": [
+         {
+          "abbreviation": "ET",
+          "qualifierName": "etiology",
+          "majorTopic_YN": "N"
+         }
+        ]
+       }
+      },
+      {
+       "majorTopic_YN": "N",
+       "descriptorName": "Vaccines, Synthetic"
+      },
+      {
+       "majorTopic_YN": "N",
+       "descriptorName": "Treatment Outcome"
+      },
+      {
+       "majorTopic_YN": "N",
+       "descriptorName": "Immunization, Secondary"
+      },
+      {
+       "majorTopic_YN": "N",
+       "descriptorName": "Single-Blind Method"
+      },
+      {
+       "majorTopic_YN": "N",
+       "descriptorName": "Adolescent"
+      },
+      {
+       "majorTopic_YN": "N",
+       "descriptorName": "Adult"
+      },
+      {
+       "majorTopic_YN": "N",
+       "descriptorName": "Aged"
+      },
+      {
+       "majorTopic_YN": "N",
+       "descriptorName": "Middle Aged"
+      },
+      {
+       "majorTopic_YN": "N",
+       "descriptorName": "Female"
+      },
+      {
+       "majorTopic_YN": "N",
+       "descriptorName": "Male"
+      },
+      {
+       "majorTopic_YN": "N",
+       "descriptorName": "Young Adult"
+      },
+      {
+       "majorTopic_YN": "N",
+       "descriptorName": "COVID-19",
+       "meshQualifierList": {
+        "meshQualifier": [
+         {
+          "abbreviation": "IM",
+          "qualifierName": "immunology",
+          "majorTopic_YN": "N"
+         },
+         {
+          "abbreviation": "PC",
+          "qualifierName": "prevention & control",
+          "majorTopic_YN": "Y"
+         }
+        ]
+       }
+      },
+      {
+       "majorTopic_YN": "Y",
+       "descriptorName": "SARS-CoV-2",
+       "meshQualifierList": {
+        "meshQualifier": [
+         {
+          "abbreviation": "GE",
+          "qualifierName": "genetics",
+          "majorTopic_YN": "N"
+         }
+        ]
+       }
+      },
+      {
+       "majorTopic_YN": "N",
+       "descriptorName": "COVID-19 Vaccines",
+       "meshQualifierList": {
+        "meshQualifier": [
+         {
+          "abbreviation": "AD",
+          "qualifierName": "administration & dosage",
+          "majorTopic_YN": "N"
+         },
+         {
+          "abbreviation": "AE",
+          "qualifierName": "adverse effects",
+          "majorTopic_YN": "N"
+         },
+         {
+          "abbreviation": "IM",
+          "qualifierName": "immunology",
+          "majorTopic_YN": "Y"
+         }
+        ]
+       }
+      },
+      {
+       "majorTopic_YN": "N",
+       "descriptorName": "mRNA Vaccines"
+      },
+      {
+       "majorTopic_YN": "N",
+       "descriptorName": "BNT162 Vaccine"
+      }
+     ]
+    },
+    "chemicalList": {
+     "chemical": [
+      {
+       "name": "Vaccines, Synthetic",
+       "registryNumber": "0"
+      },
+      {
+       "name": "COVID-19 Vaccines",
+       "registryNumber": "0"
+      },
+      {
+       "name": "BNT162 vaccine",
+       "registryNumber": "0"
+      },
+      {
+       "name": "mRNA Vaccines",
+       "registryNumber": "0"
+      }
+     ]
+    },
+    "subsetList": {
+     "subset": [
+      {
+       "code": "IM",
+       "name": "Index Medicus"
+      }
+     ]
+    },
+    "fullTextUrlList": {
+     "fullTextUrl": [
+      {
+       "availability": "Open access",
+       "availabilityCode": "OA",
+       "documentStyle": "html",
+       "site": "Unpaywall",
+       "url": "https://www.arca.fiocruz.br/handle/icict/46039"
+      },
+      {
+       "availability": "Subscription required",
+       "availabilityCode": "S",
+       "documentStyle": "doi",
+       "site": "DOI",
+       "url": "https://doi.org/10.1056/NEJMoa2034577"
+      },
+      {
+       "availability": "Open access",
+       "availabilityCode": "OA",
+       "documentStyle": "html",
+       "site": "Europe_PMC",
+       "url": "https://europepmc.org/articles/PMC7745181"
+      },
+      {
+       "availability": "Open access",
+       "availabilityCode": "OA",
+       "documentStyle": "pdf",
+       "site": "Europe_PMC",
+       "url": "https://europepmc.org/articles/PMC7745181?pdf=render"
+      }
+     ]
+    },
+    "commentCorrectionList": {
+     "commentCorrection": [
+      {
+       "id": "33301245",
+       "source": "MED",
+       "reference": "N Engl J Med. 2020 Dec 31;383(27):2677-2678. doi: 10.1056/NEJMe2034717.",
+       "type": "Comment in",
+       "orderIn": 1
+      },
+      {
+       "id": "33311629",
+       "source": "MED",
+       "reference": "Nature. 2020 Dec;588(7838):377-378. doi: 10.1038/d41586-020-03542-4.",
+       "type": "Comment in",
+       "orderIn": 2
+      },
+      {
+       "id": "33478841",
+       "source": "MED",
+       "reference": "Semergen. 2021 Jan-Feb;47(1):1-3. doi: 10.1016/j.semerg.2020.12.005.",
+       "type": "Comment in",
+       "orderIn": 3
+      },
+      {
+       "id": "33480519",
+       "source": "MED",
+       "reference": "Panminerva Med. 2022 Mar;64(1):131-132. doi: 10.23736/S0031-0808.21.04286-5.",
+       "type": "Comment in",
+       "orderIn": 4
+      },
+      {
+       "id": "33524290",
+       "source": "MED",
+       "reference": "Ann Intern Med. 2021 Feb;174(2):JC15. doi: 10.7326/ACPJ202102160-015.",
+       "type": "Comment in",
+       "orderIn": 5
+      },
+      {
+       "id": "33527275",
+       "source": "MED",
+       "reference": "MMW Fortschr Med. 2021 Feb;163(2):24-25. doi: 10.1007/s15006-021-9577-4.",
+       "type": "Comment in",
+       "orderIn": 6
+      },
+      {
+       "id": "33596348",
+       "source": "MED",
+       "reference": "N Engl J Med. 2021 Apr 22;384(16):1576-1577. doi: 10.1056/NEJMc2036242.",
+       "type": "Comment in",
+       "orderIn": 7
+      },
+      {
+       "id": "33596349",
+       "source": "MED",
+       "reference": "N Engl J Med. 2021 Apr 22;384(16):1577. doi: 10.1056/NEJMc2036242.",
+       "type": "Comment in",
+       "orderIn": 8
+      },
+      {
+       "id": "33596350",
+       "source": "MED",
+       "reference": "N Engl J Med. 2021 Apr 22;384(16):1577-1578. doi: 10.1056/NEJMc2036242.",
+       "type": "Comment in",
+       "orderIn": 9
+      },
+      {
+       "id": "34061319",
+       "source": "MED",
+       "reference": "Virol Sin. 2021 Oct;36(5):1097-1103. doi: 10.1007/s12250-021-00408-5.",
+       "type": "Comment in",
+       "orderIn": 10
+      },
+      {
+       "id": "35196425",
+       "source": "MED",
+       "reference": "N Engl J Med. 2022 Mar 24;386(12):1176-1179. doi: 10.1056/NEJMe2202547.",
+       "type": "Comment in",
+       "orderIn": 11
+      }
+     ]
+    },
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "Y",
+    "citedByCount": 12089,
+    "hasData": "Y",
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasLabsLinks": "Y",
+    "hasEvaluations": "N",
+    "authMan": "N",
+    "epmcAuthMan": "N",
+    "nihAuthMan": "N",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "nct"
+     ]
+    },
+    "dateOfCompletion": "2021-01-12",
+    "dateOfCreation": "2020-12-10",
+    "firstIndexDate": "2020-12-11",
+    "fullTextReceivedDate": "2020-12-23",
+    "dateOfRevision": "2026-01-27",
+    "electronicPublicationDate": "2020-12-10",
+    "firstPublicationDate": "2020-12-10"
+   }
+  ]
+ }
+}

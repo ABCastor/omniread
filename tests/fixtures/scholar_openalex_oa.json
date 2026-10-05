@@ -1,0 +1,1194 @@
+{
+ "id": "https://openalex.org/W2144981148",
+ "doi": "https://doi.org/10.1371/journal.pmed.0020124",
+ "title": "Why Most Published Research Findings Are False",
+ "display_name": "Why Most Published Research Findings Are False",
+ "publication_year": 2005,
+ "publication_date": "2005-08-02",
+ "ids": {
+  "openalex": "https://openalex.org/W2144981148",
+  "doi": "https://doi.org/10.1371/journal.pmed.0020124",
+  "mag": "2144981148",
+  "pmid": "https://pubmed.ncbi.nlm.nih.gov/16060722"
+ },
+ "language": "en",
+ "primary_location": {
+  "id": "doi:10.1371/journal.pmed.0020124",
+  "is_oa": true,
+  "landing_page_url": "https://doi.org/10.1371/journal.pmed.0020124",
+  "pdf_url": null,
+  "source": {
+   "id": "https://openalex.org/S197939330",
+   "display_name": "PLoS Medicine",
+   "issn_l": "1549-1277",
+   "issn": [
+    "1549-1277",
+    "1549-1676"
+   ],
+   "is_oa": true,
+   "is_in_doaj": true,
+   "is_core": true,
+   "host_organization": "https://openalex.org/P4310315706",
+   "host_organization_name": "Public Library of Science",
+   "host_organization_lineage": [
+    "https://openalex.org/P4310315706"
+   ],
+   "host_organization_lineage_names": [
+    "Public Library of Science"
+   ],
+   "type": "journal"
+  },
+  "license": "cc-by",
+  "license_id": "https://openalex.org/licenses/cc-by",
+  "version": "publishedVersion",
+  "is_accepted": true,
+  "is_published": true,
+  "raw_source_name": "PLoS Medicine",
+  "raw_type": "journal-article"
+ },
+ "type": "article",
+ "indexed_in": [
+  "crossref",
+  "doaj",
+  "pubmed"
+ ],
+ "open_access": {
+  "is_oa": true,
+  "oa_status": "gold",
+  "oa_url": "https://doi.org/10.1371/journal.pmed.0020124",
+  "any_repository_has_fulltext": true
+ },
+ "authorships": [
+  {
+   "author_position": "first",
+   "author": {
+    "id": "https://openalex.org/A5070446713",
+    "display_name": "John P. A. Ioannidis",
+    "orcid": "https://orcid.org/0000-0003-3118-6859"
+   },
+   "institutions": [
+    {
+     "id": "https://openalex.org/I194019607",
+     "display_name": "University of Ioannina",
+     "ror": "https://ror.org/01qg3j183",
+     "country_code": "GR",
+     "type": "education",
+     "lineage": [
+      "https://openalex.org/I194019607"
+     ]
+    }
+   ],
+   "countries": [
+    "GR"
+   ],
+   "is_corresponding": true,
+   "raw_author_name": "John P. A. Ioannidis",
+   "raw_affiliation_strings": [
+    "Department of Hygiene and Epidemiology, University of Ioannina School of Medicine, Ioannina, Greece. fixture@example.test",
+    "Department of Hygiene and Epidemiology University of Ioannina School of Medicine  Ioannina Greece"
+   ],
+   "raw_orcid": null,
+   "affiliations": [
+    {
+     "raw_affiliation_string": "Department of Hygiene and Epidemiology, University of Ioannina School of Medicine, Ioannina, Greece. fixture@example.test",
+     "institution_ids": [
+      "https://openalex.org/I194019607"
+     ]
+    },
+    {
+     "raw_affiliation_string": "Department of Hygiene and Epidemiology University of Ioannina School of Medicine  Ioannina Greece",
+     "institution_ids": [
+      "https://openalex.org/I194019607"
+     ]
+    }
+   ]
+  }
+ ],
+ "institutions": [],
+ "countries_distinct_count": 1,
+ "institutions_distinct_count": 1,
+ "corresponding_author_ids": [
+  "https://openalex.org/A5070446713"
+ ],
+ "corresponding_institution_ids": [
+  "https://openalex.org/I194019607"
+ ],
+ "apc_list": {
+  "value": 6300,
+  "currency": "USD",
+  "value_usd": 6300
+ },
+ "apc_paid": {
+  "value": 6300,
+  "currency": "USD",
+  "value_usd": 6300
+ },
+ "fwci": 101.7166,
+ "has_fulltext": true,
+ "cited_by_count": 10620,
+ "citation_normalized_percentile": {
+  "value": 1.0,
+  "is_in_top_1_percent": true,
+  "is_in_top_10_percent": true
+ },
+ "cited_by_percentile_year": {
+  "min": 99,
+  "max": 100
+ },
+ "biblio": {
+  "volume": "2",
+  "issue": "8",
+  "first_page": "e124",
+  "last_page": "e124"
+ },
+ "is_retracted": false,
+ "is_paratext": false,
+ "is_xpac": false,
+ "primary_topic": {
+  "id": "https://openalex.org/T10206",
+  "display_name": "Meta-analysis and systematic reviews",
+  "score": 0.9991999864578247,
+  "subfield": {
+   "id": "https://openalex.org/subfields/1804",
+   "display_name": "Statistics, Probability and Uncertainty"
+  },
+  "field": {
+   "id": "https://openalex.org/fields/18",
+   "display_name": "Decision Sciences"
+  },
+  "domain": {
+   "id": "https://openalex.org/domains/2",
+   "display_name": "Social Sciences"
+  }
+ },
+ "topics": [
+  {
+   "id": "https://openalex.org/T10206",
+   "display_name": "Meta-analysis and systematic reviews",
+   "score": 0.9991999864578247,
+   "subfield": {
+    "id": "https://openalex.org/subfields/1804",
+    "display_name": "Statistics, Probability and Uncertainty"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/18",
+    "display_name": "Decision Sciences"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/2",
+    "display_name": "Social Sciences"
+   }
+  },
+  {
+   "id": "https://openalex.org/T11744",
+   "display_name": "Health Sciences Research and Education",
+   "score": 0.978600025177002,
+   "subfield": {
+    "id": "https://openalex.org/subfields/3600",
+    "display_name": "General Health Professions"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/36",
+    "display_name": "Health Professions"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  {
+   "id": "https://openalex.org/T10804",
+   "display_name": "Health Systems, Economic Evaluations, Quality of Life",
+   "score": 0.9485999941825867,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2002",
+    "display_name": "Economics and Econometrics"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/20",
+    "display_name": "Economics, Econometrics and Finance"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/2",
+    "display_name": "Social Sciences"
+   }
+  }
+ ],
+ "keywords": [
+  {
+   "id": "https://openalex.org/keywords/medicine",
+   "display_name": "Medicine",
+   "score": 0.4766957461833954
+  },
+  {
+   "id": "https://openalex.org/keywords/medline",
+   "display_name": "MEDLINE",
+   "score": 0.4241904616355896
+  },
+  {
+   "id": "https://openalex.org/keywords/biology",
+   "display_name": "Biology",
+   "score": 0.20876342058181763
+  }
+ ],
+ "concepts": [
+  {
+   "id": "https://openalex.org/C71924100",
+   "wikidata": "https://www.wikidata.org/wiki/Q11190",
+   "display_name": "Medicine",
+   "level": 0,
+   "score": 0.4766957461833954
+  },
+  {
+   "id": "https://openalex.org/C2779473830",
+   "wikidata": "https://www.wikidata.org/wiki/Q1540899",
+   "display_name": "MEDLINE",
+   "level": 2,
+   "score": 0.4241904616355896
+  },
+  {
+   "id": "https://openalex.org/C86803240",
+   "wikidata": "https://www.wikidata.org/wiki/Q420",
+   "display_name": "Biology",
+   "level": 0,
+   "score": 0.20876342058181763
+  },
+  {
+   "id": "https://openalex.org/C55493867",
+   "wikidata": "https://www.wikidata.org/wiki/Q7094",
+   "display_name": "Biochemistry",
+   "level": 1,
+   "score": 0.0
+  }
+ ],
+ "mesh": [
+  {
+   "descriptor_ui": "D003627",
+   "descriptor_name": "Data Interpretation, Statistical",
+   "qualifier_ui": null,
+   "qualifier_name": null,
+   "is_major_topic": true
+  },
+  {
+   "descriptor_ui": "D003627",
+   "descriptor_name": "Data Interpretation, Statistical",
+   "qualifier_ui": null,
+   "qualifier_name": null,
+   "is_major_topic": true
+  },
+  {
+   "descriptor_ui": "D003627",
+   "descriptor_name": "Data Interpretation, Statistical",
+   "qualifier_ui": null,
+   "qualifier_name": null,
+   "is_major_topic": true
+  },
+  {
+   "descriptor_ui": "D011643",
+   "descriptor_name": "Publishing",
+   "qualifier_ui": null,
+   "qualifier_name": null,
+   "is_major_topic": true
+  },
+  {
+   "descriptor_ui": "D011643",
+   "descriptor_name": "Publishing",
+   "qualifier_ui": null,
+   "qualifier_name": null,
+   "is_major_topic": true
+  },
+  {
+   "descriptor_ui": "D011643",
+   "descriptor_name": "Publishing",
+   "qualifier_ui": null,
+   "qualifier_name": null,
+   "is_major_topic": true
+  },
+  {
+   "descriptor_ui": "D012107",
+   "descriptor_name": "Research Design",
+   "qualifier_ui": null,
+   "qualifier_name": null,
+   "is_major_topic": true
+  },
+  {
+   "descriptor_ui": "D012107",
+   "descriptor_name": "Research Design",
+   "qualifier_ui": null,
+   "qualifier_name": null,
+   "is_major_topic": true
+  },
+  {
+   "descriptor_ui": "D012107",
+   "descriptor_name": "Research Design",
+   "qualifier_ui": null,
+   "qualifier_name": null,
+   "is_major_topic": true
+  },
+  {
+   "descriptor_ui": "D015201",
+   "descriptor_name": "Meta-Analysis as Topic",
+   "qualifier_ui": null,
+   "qualifier_name": null,
+   "is_major_topic": false
+  },
+  {
+   "descriptor_ui": "D015201",
+   "descriptor_name": "Meta-Analysis as Topic",
+   "qualifier_ui": null,
+   "qualifier_name": null,
+   "is_major_topic": false
+  },
+  {
+   "descriptor_ui": "D015201",
+   "descriptor_name": "Meta-Analysis as Topic",
+   "qualifier_ui": null,
+   "qualifier_name": null,
+   "is_major_topic": false
+  },
+  {
+   "descriptor_ui": "D015203",
+   "descriptor_name": "Reproducibility of Results",
+   "qualifier_ui": null,
+   "qualifier_name": null,
+   "is_major_topic": false
+  },
+  {
+   "descriptor_ui": "D015203",
+   "descriptor_name": "Reproducibility of Results",
+   "qualifier_ui": null,
+   "qualifier_name": null,
+   "is_major_topic": false
+  },
+  {
+   "descriptor_ui": "D015203",
+   "descriptor_name": "Reproducibility of Results",
+   "qualifier_ui": null,
+   "qualifier_name": null,
+   "is_major_topic": false
+  },
+  {
+   "descriptor_ui": "D015982",
+   "descriptor_name": "Bias",
+   "qualifier_ui": null,
+   "qualifier_name": null,
+   "is_major_topic": true
+  },
+  {
+   "descriptor_ui": "D015982",
+   "descriptor_name": "Bias",
+   "qualifier_ui": null,
+   "qualifier_name": null,
+   "is_major_topic": true
+  },
+  {
+   "descriptor_ui": "D015982",
+   "descriptor_name": "Bias",
+   "qualifier_ui": null,
+   "qualifier_name": null,
+   "is_major_topic": true
+  },
+  {
+   "descriptor_ui": "D016013",
+   "descriptor_name": "Likelihood Functions",
+   "qualifier_ui": null,
+   "qualifier_name": null,
+   "is_major_topic": false
+  },
+  {
+   "descriptor_ui": "D016013",
+   "descriptor_name": "Likelihood Functions",
+   "qualifier_ui": null,
+   "qualifier_name": null,
+   "is_major_topic": false
+  },
+  {
+   "descriptor_ui": "D016013",
+   "descriptor_name": "Likelihood Functions",
+   "qualifier_ui": null,
+   "qualifier_name": null,
+   "is_major_topic": false
+  },
+  {
+   "descriptor_ui": "D016017",
+   "descriptor_name": "Odds Ratio",
+   "qualifier_ui": null,
+   "qualifier_name": null,
+   "is_major_topic": false
+  },
+  {
+   "descriptor_ui": "D016017",
+   "descriptor_name": "Odds Ratio",
+   "qualifier_ui": null,
+   "qualifier_name": null,
+   "is_major_topic": false
+  },
+  {
+   "descriptor_ui": "D016017",
+   "descriptor_name": "Odds Ratio",
+   "qualifier_ui": null,
+   "qualifier_name": null,
+   "is_major_topic": false
+  },
+  {
+   "descriptor_ui": "D018401",
+   "descriptor_name": "Sample Size",
+   "qualifier_ui": null,
+   "qualifier_name": null,
+   "is_major_topic": false
+  },
+  {
+   "descriptor_ui": "D018401",
+   "descriptor_name": "Sample Size",
+   "qualifier_ui": null,
+   "qualifier_name": null,
+   "is_major_topic": false
+  },
+  {
+   "descriptor_ui": "D018401",
+   "descriptor_name": "Sample Size",
+   "qualifier_ui": null,
+   "qualifier_name": null,
+   "is_major_topic": false
+  }
+ ],
+ "locations_count": 6,
+ "locations": [
+  {
+   "id": "doi:10.1371/journal.pmed.0020124",
+   "is_oa": true,
+   "landing_page_url": "https://doi.org/10.1371/journal.pmed.0020124",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S197939330",
+    "display_name": "PLoS Medicine",
+    "issn_l": "1549-1277",
+    "issn": [
+     "1549-1277",
+     "1549-1676"
+    ],
+    "is_oa": true,
+    "is_in_doaj": true,
+    "is_core": true,
+    "host_organization": "https://openalex.org/P4310315706",
+    "host_organization_name": "Public Library of Science",
+    "host_organization_lineage": [
+     "https://openalex.org/P4310315706"
+    ],
+    "host_organization_lineage_names": [
+     "Public Library of Science"
+    ],
+    "type": "journal"
+   },
+   "license": "cc-by",
+   "license_id": "https://openalex.org/licenses/cc-by",
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "PLoS Medicine",
+   "raw_type": "journal-article"
+  },
+  {
+   "id": "pmid:16060722",
+   "is_oa": false,
+   "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/16060722",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4306525036",
+    "display_name": "PubMed",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "host_organization": "https://openalex.org/I1299303238",
+    "host_organization_name": "National Institutes of Health",
+    "host_organization_lineage": [
+     "https://openalex.org/I1299303238"
+    ],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "PLoS medicine",
+   "raw_type": null
+  },
+  {
+   "id": "pmh:oai:RePEc:plo:pmed00:0020124",
+   "is_oa": true,
+   "landing_page_url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124",
+   "pdf_url": "https://journals.plos.org/plosmedicine/article/file?id=10.1371/journal.pmed.0020124&type=printable",
+   "source": {
+    "id": "https://openalex.org/S4306401271",
+    "display_name": "RePEc: Research Papers in Economics",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "host_organization": "https://openalex.org/I77793887",
+    "host_organization_name": "Federal Reserve Bank of St. Louis",
+    "host_organization_lineage": [
+     "https://openalex.org/I77793887"
+    ],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": "cc-by",
+   "license_id": "https://openalex.org/licenses/cc-by",
+   "version": "submittedVersion",
+   "is_accepted": false,
+   "is_published": false,
+   "raw_source_name": null,
+   "raw_type": "article"
+  },
+  {
+   "id": "pmh:oai:doaj.org/article:52d69fba56f94a93972d38c6da6554c6",
+   "is_oa": true,
+   "landing_page_url": "https://doaj.org/article/52d69fba56f94a93972d38c6da6554c6",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4306401280",
+    "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "host_organization": null,
+    "host_organization_name": null,
+    "host_organization_lineage": [],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": "cc-by-sa",
+   "license_id": "https://openalex.org/licenses/cc-by-sa",
+   "version": "submittedVersion",
+   "is_accepted": false,
+   "is_published": false,
+   "raw_source_name": "PLoS Medicine, Vol 2, Iss 8, p e124 (2005)",
+   "raw_type": "article"
+  },
+  {
+   "id": "pmh:oai:doaj.org/article:672569c50cfc422b86ee982f75e98010",
+   "is_oa": false,
+   "landing_page_url": "https://doaj.org/article/672569c50cfc422b86ee982f75e98010",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4306401280",
+    "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "host_organization": null,
+    "host_organization_name": null,
+    "host_organization_lineage": [],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "submittedVersion",
+   "is_accepted": false,
+   "is_published": false,
+   "raw_source_name": "PLoS Medicine, Vol 2, Iss 8, p e124 (2005)",
+   "raw_type": "article"
+  },
+  {
+   "id": "pmh:oai:europepmc.org:1802210",
+   "is_oa": true,
+   "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/1182327",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4306400806",
+    "display_name": "Europe PMC (PubMed Central)",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "host_organization": "https://openalex.org/I1303153112",
+    "host_organization_name": "European Bioinformatics Institute",
+    "host_organization_lineage": [
+     "https://openalex.org/I1303153112"
+    ],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": "cc-by",
+   "license_id": "https://openalex.org/licenses/cc-by",
+   "version": "submittedVersion",
+   "is_accepted": false,
+   "is_published": false,
+   "raw_source_name": null,
+   "raw_type": "Text"
+  }
+ ],
+ "best_oa_location": {
+  "id": "doi:10.1371/journal.pmed.0020124",
+  "is_oa": true,
+  "landing_page_url": "https://doi.org/10.1371/journal.pmed.0020124",
+  "pdf_url": null,
+  "source": {
+   "id": "https://openalex.org/S197939330",
+   "display_name": "PLoS Medicine",
+   "issn_l": "1549-1277",
+   "issn": [
+    "1549-1277",
+    "1549-1676"
+   ],
+   "is_oa": true,
+   "is_in_doaj": true,
+   "is_core": true,
+   "host_organization": "https://openalex.org/P4310315706",
+   "host_organization_name": "Public Library of Science",
+   "host_organization_lineage": [
+    "https://openalex.org/P4310315706"
+   ],
+   "host_organization_lineage_names": [
+    "Public Library of Science"
+   ],
+   "type": "journal"
+  },
+  "license": "cc-by",
+  "license_id": "https://openalex.org/licenses/cc-by",
+  "version": "publishedVersion",
+  "is_accepted": true,
+  "is_published": true,
+  "raw_source_name": "PLoS Medicine",
+  "raw_type": "journal-article"
+ },
+ "sustainable_development_goals": [],
+ "awards": [],
+ "funders": [],
+ "has_content": {
+  "grobid_xml": false,
+  "pdf": false
+ },
+ "content_urls": null,
+ "referenced_works_count": 40,
+ "referenced_works": [
+  "https://openalex.org/W1498364240",
+  "https://openalex.org/W1501619595",
+  "https://openalex.org/W1522513710",
+  "https://openalex.org/W1551600243",
+  "https://openalex.org/W1575982426",
+  "https://openalex.org/W1690786713",
+  "https://openalex.org/W1715602942",
+  "https://openalex.org/W1965992514",
+  "https://openalex.org/W1979423827",
+  "https://openalex.org/W1982375973",
+  "https://openalex.org/W1986360186",
+  "https://openalex.org/W1988934365",
+  "https://openalex.org/W1995461240",
+  "https://openalex.org/W1996647803",
+  "https://openalex.org/W2000442546",
+  "https://openalex.org/W2006825115",
+  "https://openalex.org/W2023839473",
+  "https://openalex.org/W2025651303",
+  "https://openalex.org/W2035314238",
+  "https://openalex.org/W2046875666",
+  "https://openalex.org/W2055157368",
+  "https://openalex.org/W2060512257",
+  "https://openalex.org/W2062248680",
+  "https://openalex.org/W2063068713",
+  "https://openalex.org/W2081814119",
+  "https://openalex.org/W2091947792",
+  "https://openalex.org/W2094934696",
+  "https://openalex.org/W2102945991",
+  "https://openalex.org/W2106631668",
+  "https://openalex.org/W2109363337",
+  "https://openalex.org/W2126436234",
+  "https://openalex.org/W2133774931",
+  "https://openalex.org/W2135010675",
+  "https://openalex.org/W2142960568",
+  "https://openalex.org/W2144659346",
+  "https://openalex.org/W2158304798",
+  "https://openalex.org/W2163139471",
+  "https://openalex.org/W2167098291",
+  "https://openalex.org/W2588681363",
+  "https://openalex.org/W4300811467"
+ ],
+ "related_works": [
+  "https://openalex.org/W2899084033",
+  "https://openalex.org/W2748952813",
+  "https://openalex.org/W3031052312",
+  "https://openalex.org/W4389568370",
+  "https://openalex.org/W3032375762",
+  "https://openalex.org/W1995515455",
+  "https://openalex.org/W2080531066",
+  "https://openalex.org/W3108674512",
+  "https://openalex.org/W1506200166",
+  "https://openalex.org/W1489783725"
+ ],
+ "abstract_inverted_index": {
+  "There": [
+   0
+  ],
+  "is": [
+   1,
+   18,
+   59,
+   81,
+   93,
+   105,
+   138
+  ],
+  "increasing": [
+   2
+  ],
+  "concern": [
+   3
+  ],
+  "that": [
+   4,
+   14,
+   130
+  ],
+  "most": [
+   5,
+   132
+  ],
+  "current": [
+   6,
+   153
+  ],
+  "published": [
+   7
+  ],
+  "research": [
+   8,
+   16,
+   57,
+   143,
+   157
+  ],
+  "findings": [
+   9,
+   158
+  ],
+  "are": [
+   10,
+   72,
+   77,
+   117
+  ],
+  "false.": [
+   11
+  ],
+  "The": [
+   12
+  ],
+  "probability": [
+   13
+  ],
+  "a": [
+   15,
+   56,
+   70,
+   82,
+   120,
+   142
+  ],
+  "claim": [
+   17,
+   144
+  ],
+  "true": [
+   19,
+   41,
+   64
+  ],
+  "may": [
+   20,
+   159
+  ],
+  "depend": [
+   21
+  ],
+  "on": [
+   22,
+   32
+  ],
+  "study": [
+   23,
+   133
+  ],
+  "power": [
+   24
+  ],
+  "and": [
+   25,
+   85,
+   100,
+   108,
+   111,
+   113,
+   135,
+   182
+  ],
+  "bias,": [
+   26
+  ],
+  "the": [
+   27,
+   33,
+   38,
+   46,
+   66,
+   166,
+   174,
+   180
+  ],
+  "number": [
+   28,
+   84
+  ],
+  "of": [
+   29,
+   40,
+   88,
+   125,
+   165,
+   176,
+   184
+  ],
+  "other": [
+   30,
+   109
+  ],
+  "studies": [
+   31,
+   67
+  ],
+  "same": [
+   34
+  ],
+  "question,": [
+   35
+  ],
+  "and,": [
+   36
+  ],
+  "importantly,": [
+   37
+  ],
+  "ratio": [
+   39
+  ],
+  "to": [
+   42,
+   62,
+   145
+  ],
+  "no": [
+   43
+  ],
+  "relationships": [
+   44,
+   47
+  ],
+  "among": [
+   45
+  ],
+  "probed": [
+   48
+  ],
+  "in": [
+   49,
+   69,
+   96,
+   119,
+   123
+  ],
+  "each": [
+   50
+  ],
+  "scientific": [
+   51,
+   121,
+   154
+  ],
+  "field.": [
+   52
+  ],
+  "In": [
+   53,
+   169
+  ],
+  "this": [
+   54,
+   170
+  ],
+  "framework,": [
+   55
+  ],
+  "finding": [
+   58
+  ],
+  "less": [
+   60
+  ],
+  "likely": [
+   61,
+   140
+  ],
+  "be": [
+   63,
+   146,
+   161
+  ],
+  "when": [
+   65,
+   74,
+   79,
+   103,
+   114
+  ],
+  "conducted": [
+   68
+  ],
+  "field": [
+   71,
+   122
+  ],
+  "smaller;": [
+   73,
+   78
+  ],
+  "effect": [
+   75
+  ],
+  "sizes": [
+   76
+  ],
+  "there": [
+   80,
+   92,
+   104
+  ],
+  "greater": [
+   83,
+   94,
+   106
+  ],
+  "lesser": [
+   86
+  ],
+  "preselection": [
+   87
+  ],
+  "tested": [
+   89
+  ],
+  "relationships;": [
+   90
+  ],
+  "where": [
+   91
+  ],
+  "flexibility": [
+   95
+  ],
+  "designs,": [
+   97
+  ],
+  "definitions,": [
+   98
+  ],
+  "outcomes,": [
+   99
+  ],
+  "analytical": [
+   101
+  ],
+  "modes;": [
+   102
+  ],
+  "financial": [
+   107
+  ],
+  "interest": [
+   110
+  ],
+  "prejudice;": [
+   112
+  ],
+  "more": [
+   115,
+   139
+  ],
+  "teams": [
+   116
+  ],
+  "involved": [
+   118
+  ],
+  "chase": [
+   124
+  ],
+  "statistical": [
+   126
+  ],
+  "significance.": [
+   127
+  ],
+  "Simulations": [
+   128
+  ],
+  "show": [
+   129
+  ],
+  "for": [
+   131,
+   141,
+   151,
+   179
+  ],
+  "designs": [
+   134
+  ],
+  "settings,": [
+   136
+  ],
+  "it": [
+   137
+  ],
+  "false": [
+   147
+  ],
+  "than": [
+   148
+  ],
+  "true.": [
+   149
+  ],
+  "Moreover,": [
+   150
+  ],
+  "many": [
+   152
+  ],
+  "fields,": [
+   155
+  ],
+  "claimed": [
+   156
+  ],
+  "often": [
+   160
+  ],
+  "simply": [
+   162
+  ],
+  "accurate": [
+   163
+  ],
+  "measures": [
+   164
+  ],
+  "prevailing": [
+   167
+  ],
+  "bias.": [
+   168
+  ],
+  "essay,": [
+   171
+  ],
+  "I": [
+   172
+  ],
+  "discuss": [
+   173
+  ],
+  "implications": [
+   175
+  ],
+  "these": [
+   177
+  ],
+  "problems": [
+   178
+  ],
+  "conduct": [
+   181
+  ],
+  "interpretation": [
+   183
+  ],
+  "research.": [
+   185
+  ]
+ },
+ "counts_by_year": [
+  {
+   "year": 2026,
+   "cited_by_count": 422
+  },
+  {
+   "year": 2025,
+   "cited_by_count": 669
+  },
+  {
+   "year": 2024,
+   "cited_by_count": 677
+  },
+  {
+   "year": 2023,
+   "cited_by_count": 749
+  },
+  {
+   "year": 2022,
+   "cited_by_count": 817
+  },
+  {
+   "year": 2021,
+   "cited_by_count": 886
+  },
+  {
+   "year": 2020,
+   "cited_by_count": 878
+  },
+  {
+   "year": 2019,
+   "cited_by_count": 939
+  },
+  {
+   "year": 2018,
+   "cited_by_count": 811
+  },
+  {
+   "year": 2017,
+   "cited_by_count": 774
+  },
+  {
+   "year": 2016,
+   "cited_by_count": 722
+  },
+  {
+   "year": 2015,
+   "cited_by_count": 548
+  },
+  {
+   "year": 2014,
+   "cited_by_count": 433
+  },
+  {
+   "year": 2013,
+   "cited_by_count": 347
+  },
+  {
+   "year": 2012,
+   "cited_by_count": 225
+  }
+ ],
+ "updated_date": "2026-07-27T08:26:11.824852",
+ "created_date": "2025-10-10T00:00:00"
+}

@@ -1,0 +1,39 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Reader API</title>
+    <meta name="wordcount" content="205">
+  </head>
+  <body>
+    <main>
+      <article>
+        <h1>Reader API</h1>
+        <p>The library exposes one typed result to every adapter. Callers receive content, a full
+        outline, provenance, an independent completeness verdict, and a declared coverage mode.
+        The contract is deliberately stable so a command line client and an MCP client cannot
+        invent different meanings for the same read.</p>
+        <h2>Request contract</h2>
+        <p>A normal request asks for full coverage. A token budget may deliberately return a core
+        prefix on section boundaries. That bounded response names every omitted section and gives
+        the exact remaining section count and estimated token cost. This value decision never
+        edits the verifier result.</p>
+        <h2>Python example</h2>
+        <pre><code class="language-python">result = reader.read(
+    "https://example.test/guide",
+    budget_tokens=800,
+)
+assert result.coverage == "core"
+assert result.completeness.status == "complete"
+</code></pre>
+        <p>The example intentionally demonstrates orthogonal axes. Complete says the source was
+        captured and verified. Core says the returned payload is a declared bounded view of that
+        verified source.</p>
+        <h2>Failure behavior</h2>
+        <p>Retrieval, rendering, extraction, verification, policy, and dependency failures remain
+        typed. A browser challenge returned with a successful HTTP code is still a block. A first
+        page with explicit next-page controls is still incomplete until a recipe follows and
+        verifies every page.</p>
+      </article>
+    </main>
+  </body>
+</html>
