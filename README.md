@@ -1,10 +1,16 @@
-<h1><img src="docs/mark-solid-light.svg" width="40" align="absmiddle" alt=""> <img src="docs/omniread-title.svg" width="175" align="absmiddle" alt="OmniRead*"></h1>
+<h1><img src="docs/media/readme-header.svg" width="112" height="72" align="absmiddle" alt=""> <img src="docs/omniread-title.svg" width="175" align="absmiddle" alt="OmniRead*"></h1>
 
 OmniRead is a Python web reader for AI agents that returns Markdown with a completeness verdict: `complete`, `incomplete`, or `unknown`.
 
 [![Checks](https://github.com/ABCastor/omniread/actions/workflows/checks.yml/badge.svg?branch=main)](https://github.com/ABCastor/omniread/actions/workflows/checks.yml)
 
 An extracted page can contain readable prose while missing entire sections. OmniRead compares the extraction against evidence from the source, including headings, declared word counts and pagination, so callers can see gaps before relying on the text.
+
+## Works with Gaddi
+
+[Gaddi](https://github.com/ABCastor/gaddi) gives an agent access to your existing Chrome tabs and logins. OmniRead turns the captured page into Markdown, a section index and evidence of what may be missing. Gaddi’s `browser_read` already uses OmniRead when it is installed.
+
+That combination matters on a signed-in article: the agent can read the page you can access, ask for a particular section, and see when only an abstract, a blocked page or part of a longer document was captured. Gaddi controls browser actions and approvals; OmniRead checks the reading. Its completeness verdict remains evidence, not a guarantee.
 
 ## Install
 
